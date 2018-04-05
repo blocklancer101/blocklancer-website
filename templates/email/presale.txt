@@ -1,0 +1,15 @@
+{% extends 'email/email_base.txt' %}
+
+{% block content %}
+
+Thank you for your interest in the {{ universal.BUSINESS_NAME }}. 
+
+We have your information and will be in touch soon. Please help us spread the word and invite your friends to join us on Telegram.
+
+* Telegram ({{ universal.CHATBOT_URL }})
+
+Thanks,
+The {{ universal.BUSINESS_NAME }} team
+
+{% endblock %}
+

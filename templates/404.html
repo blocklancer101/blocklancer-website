@@ -1,0 +1,58 @@
+{% extends 'base.html' %}
+
+{% block title %}Sharing Economy Protocol{% endblock %}
+
+{% block meta_description %}Sharing Economy Protocol{% endblock %}
+
+{% block content %}
+
+<main class="error-page">
+  {% include 'navbar.html' %}
+  <section class="error-header-section">
+    <div class="container foreground-content">
+      <div class="row">
+        <div class="col-12">
+          <h1>
+            {{ gettext("How did I get here?") }}
+          </h1>
+        </div>
+        <div class="col-12 col-md-9 col-lg-6">
+          <div class="indented text-container">
+            <p>
+              {{ gettext("The page you’re looking for is no longer here, maybe it was never here in the first place. In any case, we sincerely apologize if it’s us and we forgive you if it’s you :)") }}
+            </p>
+            <div class="btn-container d-none d-sm-block">
+              <a href="/">
+                <button class="btn btn-sm btn-outline-primary">
+                  {{ gettext("Go Home") }}
+                </button>
+              </a>
+            </div>
+          </div>
+          <div class="btn-container d-sm-none">
+            <a href="/">
+              <button class="btn btn-sm btn-outline-primary">
+                {{ gettext("Go Home") }}
+              </button>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="error-content-section">
+    <div class="images-container">
+      <img src="/static/img/mask.svg" class="mask" />
+      <img src="/static/img/404.svg" class="code" />
+      <img src="/static/img/blocks-1.svg" class="blocks-1" />
+      <img src="/static/img/blocks-2.svg" class="blocks-2" />
+      <img src="/static/img/dude.svg" class="dude" />
+    </div>
+  </section>
+  {% include 'footer.html' %}
+</main>
+
+{% endblock %}
+
+{% block extra_scripts %}
+{% endblock %}

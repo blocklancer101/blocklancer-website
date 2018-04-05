@@ -1,0 +1,694 @@
+# Russian translations for Sharing Economy
+# Protocol Website.
+# This file is distributed under the
+# same license as the Sharing Economy Protocol
+# Website project.
+#
+# This is 2nd rev of .pot file,
+# including some strings that were
+# hidden in
+# JS files
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version:  0.2\n"
+"Report-Msgid-Bugs-To: stan@originprotocol.com\n"
+"POT-Creation-Date: 2018-01-21 21:10-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: logic/emails/mailing_list.py:17 logic/emails/mailing_list.py:35
+#: logic/emails/mailing_list.py:96
+msgid "Please enter a valid email address"
+msgstr "Укажите корректный адрес электронной почты"
+
+#: logic/emails/mailing_list.py:26
+msgid "You are already signed up!"
+msgstr "Вы уже зарегистрированы!"
+
+#: logic/emails/mailing_list.py:30
+msgid "Thanks for signing up!"
+msgstr "Спасибо за регистрацию!"
+
+#: logic/emails/mailing_list.py:52 logic/emails/mailing_list.py:112
+msgid "Ooops! Something went wrong."
+msgstr "Ой! Что-то пошло не так."
+
+#: logic/emails/mailing_list.py:64 logic/emails/mailing_list.py:123
+msgid "Thanks! We'll be in touch soon."
+msgstr "Спасибо! Мы скоро с вами свяжемся."
+
+#: logic/emails/mailing_list.py:77
+msgid "Ooops, something went wrong"
+msgstr "Ой, что-то пошло не так"
+
+#: logic/emails/mailing_list.py:79
+msgid "You have been unsubscribed"
+msgstr "Ваша подписка была отменена"
+
+#: logic/emails/mailing_list.py:99
+msgid "Please enter a valid website address"
+msgstr "Введите корректный адрес веб-сайта"
+
+#: templates/build_on_origin.html:3
+msgid "The sharing economy without intermediaries: Build on Sharing Economy"
+msgstr "Экономика обмена без посредников: Построено на Sharing Economy"
+
+#: templates/build_on_origin.html:5
+msgid "Sharing Economy Protocol - Build on Sharing Economy"
+msgstr "Sharing Economy Protocol - Построено на Sharing Economy"
+
+#: templates/build_on_origin.html:16
+msgid "Build on Sharing Economy"
+msgstr "Построено на Sharing Economy"
+
+#: templates/build_on_origin.html:21
+msgid "<strong>Teams all over the world are building on Sharing Economy's protocols. We're looking for more amazing people to join our mission.</strong> Whether you're an existing blockchain company or a traditional marketplace thinking about the blockchain, we'd love to hear from you! Fill out the form below and we'll get back to you shortly."
+msgstr "<strong> Команды во всему миру используют Sharing Economy. Мы ищем больше потрясающих людей, которые присоединятся к нашей миссии. </strong> Независимо от того, являетесь ли вы существующей блокчейн компанией или традиционным рынком, думающим о блокчейне, мы будем рады услышать вас! Заполните форму ниже, и мы скоро свяжемся с вами."
+
+#: templates/build_on_origin.html:66
+msgid "Interested in building?"
+msgstr "Заинтересованы Sharing Economy?"
+
+#: templates/build_on_origin.html:72 templates/build_on_origin.html:73
+msgid "Name"
+msgstr "Имя"
+
+#: templates/build_on_origin.html:77 templates/build_on_origin.html:78
+msgid "Company"
+msgstr "Компания"
+
+#: templates/build_on_origin.html:82 templates/build_on_origin.html:83
+#: templates/contact.html:77 templates/contact.html:78
+msgid "Email"
+msgstr "Эл. адрес"
+
+#: templates/build_on_origin.html:87 templates/build_on_origin.html:88
+msgid "Website"
+msgstr "Сайт"
+
+#: templates/build_on_origin.html:92 templates/contact.html:397
+msgid "<strong>Anything else we should know?</strong> (optional)"
+msgstr "<strong> Что-нибудь еще, что мы должны знать? </strong> (необязательно)"
+
+#: templates/build_on_origin.html:96 templates/contact.html:411
+msgid "Submit"
+msgstr "Принять"
+
+#: templates/flashes.html:7
+msgid "Make new friends!"
+msgstr "Заведите новых друзей!"
+
+#: templates/flashes.html:7
+msgid "Talk to Our Chatbot"
+msgstr "Наш Telegram"
+
+#: templates/flashes.html:10
+msgid "Stay in touch?"
+msgstr "Останетесь на связи?"
+
+#: templates/flashes.html:10
+msgid "Join Our Mailing List"
+msgstr "Наша рассылка"
+
+#: templates/flashes.html:14
+msgid "Want to contribute?"
+msgstr "Хотите внести свой вклад?"
+
+#: templates/flashes.html:14
+msgid "Join Our Slack"
+msgstr "Наш Slack"
+
+#: templates/footer.html:12
+msgid "Sharing Economy is building the sharing economy of tomorrow. Buyers and sellers will be able to transact without rent-seeking middlemen. We believe in lowering transaction fees, reducing censorship and regulation, and giving early participants in the community a stake in the network."
+msgstr "Sharing Economy строит экономику совместного потребления завтрашнего дня. Покупатели и продавцы смогут совершать сделки без рентоориентированных посредников. Мы верим в снижение комиссий за транзакции, снижение цензуры и регулирования, а также предоставление ранним участникам сообщества доли в сети."
+
+#: templates/footer.html:15
+msgid "Sharing Economy, Inc."
+msgstr "Sharing Economy, Inc."
+
+#: templates/footer.html:22
+msgid "Documentation"
+msgstr "Документация"
+
+#: templates/footer.html:27 templates/navbar_dark.html:20
+#: templates/navbar_light.html:20
+msgid "Product Brief"
+msgstr "Обзор продукта"
+
+#: templates/footer.html:32
+msgid "Whitepaper"
+msgstr "Техническое описание"
+
+#: templates/footer.html:37
+msgid "Demo DApp"
+msgstr "Демо DApp"
+
+#: templates/footer.html:42
+msgid "Github"
+msgstr "Github"
+
+#: templates/footer.html:47
+msgid "Docs"
+msgstr "Документы"
+
+#: templates/footer.html:54 templates/team.html:110
+msgid "Community"
+msgstr "Сообщество"
+
+#: templates/footer.html:59
+msgid "Slack"
+msgstr "Slack"
+
+#: templates/footer.html:64
+msgid "Telegram"
+msgstr "Telegram"
+
+#: templates/footer.html:69
+msgid "Medium"
+msgstr "Medium"
+
+#: templates/footer.html:74
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/footer.html:79
+msgid "Facebook"
+msgstr "Facebook"
+
+#: templates/footer.html:86
+msgid "Organization"
+msgstr "Организация"
+
+#: templates/footer.html:91 templates/navbar_dark.html:23
+#: templates/navbar_light.html:23
+msgid "Team"
+msgstr "Команда"
+
+#: templates/footer.html:96 templates/navbar_dark.html:17
+#: templates/navbar_light.html:17 templates/contact.html:16
+msgid "Presale"
+msgstr "Предпродажа"
+
+#: templates/footer.html:101
+msgid "Jobs (We're hiring!)"
+msgstr "Вакансии (Мы нанимаем!)"
+
+#: templates/footer.html:106
+msgid "845 Market St, #450A<br>San Francisco, CA 94103"
+msgstr "845 Market St, #450A<br>San Francisco, CA 94103"
+
+#: templates/index.html:3
+msgid "The sharing economy without intermediaries. Sharing Economy is a protocol for creating sharing economy marketplaces using the Ethereum blockchain and IPFS."
+msgstr "Экономика обмена без посредников. Sharing Economy это протокол создания торговых площадок для экономики совместного потребления, использующий блокчейн Ethereum и IPFS"
+
+#: templates/index.html:5
+msgid "Sharing Economy Protocol"
+msgstr "Sharing Economy Protocol"
+
+#: templates/index.html:16
+msgid "The sharing economy without intermediaries"
+msgstr "Экономика обмена без посредников"
+
+#: templates/index.html:19
+msgid "Sharing Economy is a protocol for creating sharing economy marketplaces using the Ethereum blockchain and IPFS"
+msgstr "Sharing Economy это протокол создания торговых площадок для экономики совместного потребления, использующий блокчейн Ethereum и IPFS"
+
+#: templates/index.html:66
+msgid "The Sharing Economy platform"
+msgstr "Платформа Sharing Economy"
+
+#: templates/index.html:69
+msgid "We empower developers and businesses to build decentralized marketplaces on the blockchain. Our protocol makes it easy to create and manage listings for the fractional usage of assets and services. Buyers and sellers can discover each other, browse listings, make bookings, leave ratings and reviews, and much more."
+msgstr "Мы предоставляем разработчикам и предприятиям возможность создавать децентрализованные рынки на блокчейне. Наш протокол упрощает создание и управление списками для долевого использования активов и услуг. Покупатели и продавцы могут находить друг друга, просматривать списки, делать заказы, оставлять рейтинги и обзоры и многое другое."
+
+#: templates/index.html:74
+msgid "Read the Product Brief"
+msgstr "Обзор продукта"
+
+#: templates/index.html:96
+msgid "Companies building on the Sharing Economy Protocol"
+msgstr "Компании, использующие Sharing Economy Protocol"
+
+#: templates/index.html:140
+msgid "Build your business on Sharing Economy"
+msgstr "Создайте свой бизнес на Sharing Economy"
+
+#: templates/index.html:143
+msgid "Whether you are a freelance photographer, apartment owner, bikeshare supplier, or existing sharing economy business, Sharing Economy makes it easy to do business on the decentralized web."
+msgstr "Независимо от того, являетесь ли вы внештатным фотографом, владельцем квартиры, велопрокатом или уже существующим бизнесом совместного потребления, Sharing Economy упрощает работу в децентрализованной сети."
+
+#: templates/index.html:143
+msgid "Get in touch to learn more."
+msgstr "Свяжитесь с нами, чтобы узнать больше."
+
+#: templates/index.html:148
+msgid "Try the Demo"
+msgstr "Попробуйте демо"
+
+#: templates/index.html:155
+msgid "View Github"
+msgstr "Просмотр Github"
+
+#: templates/index.html:168
+msgid "It's time to replace rent-seeking middlemen"
+msgstr "Пришло время заменить рентоориентированных посредников"
+
+#: templates/index.html:171
+#, python-format
+msgid "Harnessing the power of the Ethereum blockchain, listings are managed via a secure and transparent system that acts as a neutral third party. Buyers and sellers share the 20-30%% transaction fees that currently go to companies like Uber, Airbnb, Fiverr, and Getaround."
+msgstr "Cписки управляются с помощью безопасной и прозрачной системы, использующей возможности блокчейна Ethereum, которая действует как нейтральная третья сторона. Покупатели и продавцы разделяют комиссионные сборы в размере 20-30%%, которые в настоящее время отходят таким компаниям, как Uber, Airbnb, Fiverr и Getaround."
+
+#: templates/index.html:176
+msgid "Read the Whitepaper"
+msgstr "Прочтите техописание"
+
+#: templates/index.html:230
+msgid "Smart contracts enable secure and reliable payments directly from one party to another"
+msgstr "Смарт-контракты обеспечивают безопасные и надежные прямые платежи."
+
+#: templates/index.html:241
+msgid "Protocol schemas support hundreds of listing types, including custom verticals"
+msgstr "Схемы протоколов поддерживают сотни типов списков, включая пользовательские категории"
+
+#: templates/index.html:252
+msgid "Open and shared data encourages innovation by developers and businesses"
+msgstr "Открытые и общедоступные данные поощряют инновации разработчиков и предприятий"
+
+#: templates/index.html:263
+msgid "Identity verification and reputation data on the blockchain ensures safe, reputable partners"
+msgstr "Хранение личных данных и репутации в блокчейне гарантирует  безопасность и надежность партнеров"
+
+#: templates/index.html:280
+msgid "Tech Stack"
+msgstr "Технический стек"
+
+#: templates/index.html:349
+msgid "Roadmap"
+msgstr "Дорожная карта"
+
+#: templates/index.html:355
+msgid "May 2017"
+msgstr "Май 2017"
+
+#: templates/index.html:357
+msgid "Idea conception and demo DApp development"
+msgstr "Концепт и разработка демо DApp"
+
+#: templates/index.html:362
+msgid "September 2017"
+msgstr "Сентябрь 2017"
+
+#: templates/index.html:364
+msgid "Product Brief</a> and <a href='/whitepaper'>Whitepaper</a> released"
+msgstr "Обзор продукта </a> и <a href='/whitepaper'> техническое описание </a>"
+
+#: templates/index.html:369
+msgid "December 2017"
+msgstr "Декабрь 2017"
+
+#: templates/index.html:371
+msgid "Launch <a href='https://demo.originprotocol.com' target='_blank'>alpha</a> on Ethereum testnet"
+msgstr "Запуск <a href='https://demo.originprotocol.com' target='_blank'> альфа-версии </a> в тестовой сети Ethereum"
+
+#: templates/index.html:376
+msgid "March 2018"
+msgstr "Март 2018"
+
+#: templates/index.html:378
+msgid "Public beta and community sale"
+msgstr "Публичная бета-версия и продажа для сообщества"
+
+#: templates/index.html:383
+msgid "Q2-2018"
+msgstr "3 квартал 2018"
+
+#: templates/index.html:385
+msgid "Token distribution and launch of 3rd-party DApps"
+msgstr "Распределение токенов и запуск сторонних DApps"
+
+#: templates/index.html:390
+msgid "Q3-2018"
+msgstr "Q3-2018"
+
+#: templates/index.html:392
+msgid "Fully decentralized services and governance"
+msgstr "Полная децентрализация сервисов и управления"
+
+#: templates/index.html:418
+msgid "Join us in building the sharing economy of tomorrow"
+msgstr "Присоединяйтесь к нам в создании экономики завтрашнего дня"
+
+#: templates/index.html:421
+msgid "Sign up for our mailing list and be first to learn of any Sharing Economy news!"
+msgstr "Подпишитесь на нашу рассылку и первыми узнавайте о любых новостях Sharing Economy!"
+
+#: templates/index.html:425
+msgid "Enter email"
+msgstr "Введите адрес электронной почты"
+
+#: templates/index.html:428
+msgid "Join the Community"
+msgstr "Присоединиться к сообществу"
+
+#: templates/index.html:442
+msgid "Press"
+msgstr "Пресса"
+
+#: templates/index.html:455
+msgid "If Airbnb were being started today, it would’ve been a peer-to-peer cooperative model based on a blockchain - Joey Krug, Augur"
+msgstr "Если бы Airbnb начинали сегодня, это была бы модель неиерархичного сотрудничества, основанная на блокчейне - Joey Krug, Augur"
+
+#: templates/index.html:472
+msgid "The Sharing Economy Protocol is a set of open-source blockchain protocols for buyers and sellers of services like car-sharing or home-sharing to transact on a decentralized, open web platform."
+msgstr "Протокол Sharing Economy представляет собой набор блокчейн протоколов с открытым исходным кодом, позволяющий покупателям и продавцам таких услуг, как каршеринг или аренда жилья, взаимодействовать на децентрализованной открытой веб-платформе."
+
+#: templates/index.html:489
+msgid "Sharing Economy wants to change that, hoping to decentralize the sharing economy with Ethereum by creating a peer-to-peer network for transacting directly for just about anything."
+msgstr "Sharing Economy хочет децентрализовать экономику обмена с помощью Ethereum, создав неиерархичную сеть для прямого обмена практически чего угодно."
+
+#: templates/index.html:506
+msgid "What if open-source software can replace dozens of multi-million or even multi-billion dollar companies?"
+msgstr "Что, если программное обеспечение с открытым исходным кодом сможет заменить десятки многомиллионных или даже многомиллиардных компаний?"
+
+#: templates/navbar_dark.html:26 templates/navbar_light.html:26
+msgid "Blog"
+msgstr "Блог"
+
+#: templates/navbar_dark.html:29 templates/navbar_light.html:29
+msgid "Demo"
+msgstr "Демо"
+
+#: templates/contact.html:3
+msgid "The sharing economy without intermediaries: Sharing Economy Protocol Presale"
+msgstr "Экономика обмена без посредников: Предпродажа Sharing Economy Protocol."
+
+#: templates/contact.html:5
+msgid "Sharing Economy Protocol - Presale"
+msgstr "Sharing Economy Protocol - Предпродажа"
+
+#: templates/contact.html:21
+msgid "<strong>The exact date and details of the Sharing Economy contact have not yet been announced.</strong> Please fill out this form if you are interested in participating in the Sharing Economy contact and want to be updated as more details are announced."
+msgstr "<strong> Точная дата и детали предпродажи Sharing Economy пока не объявлены. </strong> Пожалуйста, заполните эту форму, если вы заинтересованы в участии в предпродаже Sharing Economy и хотите получать обновления по мере появления новых сведений."
+
+#: templates/contact.html:66
+msgid "Interested in contributing?"
+msgstr "Хотите внести свой вклад?"
+
+#: templates/contact.html:72 templates/contact.html:73
+msgid "Full Name"
+msgstr "Полное Имя"
+
+#: templates/contact.html:82
+msgid "Are you an accredited investor?"
+msgstr "Вы являетесь аккредитованным инвестором?"
+
+#: templates/contact.html:83
+msgid "Huh?"
+msgstr "Да?"
+
+#: templates/contact.html:84
+msgid "An accredited investor must have a net worth of at least $1,000,000, excluding the value of one's primary residence, or have income at least $200,000 each year for the last two years (or $300,000 combined income if married.)"
+msgstr "Аккредитованный инвестор должен иметь чистые активы в размере не менее 1 000 000 долларов США, за исключением стоимости недвижимости - основного места жительства или иметь доход не менее 200 000 долларов США каждый год в течение последних двух лет (или комбинированный доход в размере 300 000 долларов США, если он состоит в браке)."
+
+#: templates/contact.html:88
+msgid "Yes"
+msgstr "Да"
+
+#: templates/contact.html:93
+msgid "No"
+msgstr "Нет"
+
+#: templates/contact.html:99
+msgid "What type of entity do you represent?"
+msgstr "Тип организации, которую вы представляете?"
+
+#: templates/contact.html:103
+msgid "Individual"
+msgstr "Частное лицо"
+
+#: templates/contact.html:108
+msgid "Syndicate"
+msgstr "Синдикат"
+
+#: templates/contact.html:113
+msgid "Professional Fund"
+msgstr "Профессиональный фонд"
+
+#: templates/contact.html:120
+msgid "<strong>Desired allocation</strong>"
+msgstr "<strong> Желаемая сумма </strong>"
+
+#: templates/contact.html:137
+msgid "Citizenship"
+msgstr "Гражданство"
+
+#: templates/contact.html:392
+msgid "<strong>ETH or BTC address you plan to send from?</strong> (optional)"
+msgstr "<strong>Адрес ETH или  BTC, с которого вы планируете отправлять транзакции </strong> (необязательно)"
+
+#: templates/contact.html:402
+msgid "Important notice"
+msgstr "Важное примечание"
+
+#: templates/contact.html:405
+msgid " I understand the contact will be subject to United States regulations and securities laws and that submitting this form is NOT a guarantee of allocation."
+msgstr " Я понимаю, что предпродажа будет регулироваться законодательством США и законами о ценных бумагах, и что представление этой формы НЕ является гарантией распределения."
+
+#: templates/team.html:3
+msgid "The sharing economy without intermediaries: Sharing Economy Protocol Team"
+msgstr "Экономика совместного потребления без посредников: команда Sharing Economy Protocol"
+
+#: templates/team.html:5
+msgid "Sharing Economy Protocol - Team"
+msgstr "Sharing Economy Protocol - команда"
+
+#: templates/team.html:16
+msgid "Our Team"
+msgstr "Наша Команда"
+
+#: templates/team.html:21
+msgid "Sharing Economy is a team of distributed entrepreneurs, engineers, and blockchain experts. Our mission is to enable the sharing economy on the decentralized web. We're hiring!"
+msgstr "Sharing Economy - это распределенная команда предпринимателей, инженеров и программистов. Наша миссия состоит в децентрализации экономики совместного потребления. Мы нанимаем!"
+
+#: templates/team.html:46
+msgid "Core Team"
+msgstr "Основная Команда"
+
+#: templates/team.html:55
+msgid "Josh Fraser"
+msgstr "Josh Fraser"
+
+#: templates/team.html:59 templates/team.html:76
+msgid "Cofounder"
+msgstr "Соучредитель"
+
+#: templates/team.html:62
+msgid "Josh started coding at the age of 10. Prior to Sharing Economy, he co-founded three other venture-backed companies: EventVue, Torbit (acquired by Walmart Labs) &amp; Forage."
+msgstr "Джош начал программировать в возрасте 10 лет. До Sharing Economy он основал три венчурные компании: EventVue, Torbit (приобретенные Walmart Labs) и Forage."
+
+#: templates/team.html:72
+msgid "Matthew Liu"
+msgstr "Matthew Liu"
+
+#: templates/team.html:79
+msgid "Matt was the 3rd PM at YouTube (acquired by Google) and VP PM at Qwiki (acquired by Yahoo) and Bonobos (acquired by Walmart). He has an MS and BS from Stanford."
+msgstr "Мэтт был третьим проектным менеджером (VP) в YouTube (приобретено Google) и старшим проектным менеджером (VP PM) в Qwiki (приобретено Yahoo) и Bonobos (приобретено Walmart). Имеет степени магистра и бакалавра Стэнфордского Университета."
+
+#: templates/team.html:89
+msgid "Stan James"
+msgstr "Stan James"
+
+#: templates/team.html:93
+msgid "Senior Engineer"
+msgstr "Старший Инженер"
+
+#: templates/team.html:96
+msgid "Stan is a software architect with deep experience in game design and machine learning. Previously, he founded Lijit Networks (acquired by Federated Media)."
+msgstr "Стэн - архитектор программного обеспечения с глубоким опытом в разработке игр и машинного обучения. Ранее он основал Lijit Networks (приобретено Federated Media)."
+
+#: templates/team.html:106
+msgid "Andrew Hyde"
+msgstr "Andrew Hyde"
+
+#: templates/team.html:113
+msgid "Andrew was the founder of four startups, including Startup Weekend, and has built global communities across dozens of countries. He was employee number 1 at TechStars."
+msgstr "Эндрю был основателем четырех стартапов, в том числе Startup Weekend, создал глобальные сообщества в десятках стран. Он был первым сотрудником в TechStars."
+
+#: templates/team.html:127
+msgid "Partnerships"
+msgstr "Партнёрства"
+
+#: templates/team.html:130
+msgid "Coleman is an active cryptocurrency investor and real estate entrepreneur, owning and managing multiple Airbnb properties. He studied mathematics at Berkeley."
+msgstr "Является активным инвестором в области криптовалюты и недвижимости, владеющим и управляющим множеством объектов на Airbnb. Он изучал математику в Беркли."
+
+#: templates/team.html:140
+msgid "Jon Hearty"
+msgstr "Jon Hearty"
+
+#: templates/team.html:144
+msgid "Business Development"
+msgstr "Развитие бизнеса"
+
+#: templates/team.html:147
+msgid "Jon was the 10th hire at Redbeacon (acquired by The Home Depot) and 1st hire at Datanyze where he served in multiple business development roles from VP of growth to COO."
+msgstr "Джон был десятым нанятым в Redbeacon (приобретенно The Home Depot) и 1 нанятым в Datanyze, где он занимался развитием бизнеса в нескольких ролях, от вице-президента по росту до главного операционного директора (COO)."
+
+#: templates/team.html:165
+msgid "Contributing Team and Advisors"
+msgstr "Команда содействия и советники"
+
+#: templates/team.html:174
+msgid "Aure Gimon"
+msgstr "Aure Gimon"
+
+#: templates/team.html:178
+msgid "Product Designer"
+msgstr "Дизайнер продуктов"
+
+#: templates/team.html:181
+msgid "Aure has deep experience in crafting products that delight users. He has designed experiences with top brands (Nike, Sony, Virgin) and Silicon Valley startups."
+msgstr "Имеет большой опыт в разработке продуктов, которые восхищают пользователей. Имеет опыт разработки дизайна для топ-брендов (Nike, Sony, Virgin) и стартапов Силиконовой долины."
+
+#: templates/team.html:191
+msgid "Derek Kan"
+msgstr "Derek Kan"
+
+#: templates/team.html:195
+msgid "Evangelist"
+msgstr "Евангелист"
+
+#: templates/team.html:198
+msgid "Derek is a product executive that has built global marketing and ad technology business lines. He's held leadership positions at GroupM and Omnicom Media Group."
+msgstr "Дерек - руководитель продукта, создавший глобальные маркетинговые и рекламные бизнес-направления. Он занимал руководящие должности в GroupM и Omnicom Media Group."
+
+#: templates/team.html:208
+msgid "Saureen Shah"
+msgstr "Saureen Shah"
+
+#: templates/team.html:212
+msgid "Engineer/BD"
+msgstr "Инженер / BD"
+
+#: templates/team.html:215
+msgid "Saureen is a serial entrepreneur and investor. He was cofounder and CTO of sharing economy marketplace InstaWork and 10th software engineer at YouTube."
+msgstr "Является серийным антрепренером и инвестором. Он был соучредителем и техническим директором площадки экономики обмена InstaWork и десятым разработчиком программного обеспечения на YouTube."
+
+#: templates/team.html:225
+msgid "Ryan Angilly"
+msgstr "Ryan Angilly"
+
+#: templates/team.html:229 templates/team.html:246
+msgid "Engineer"
+msgstr "Инженер"
+
+#: templates/team.html:232
+msgid "Ryan has 10+ years experience building and operating consumer-facing web applications and highly scalable B2B APIs. He is founder of Ramen and ChartURL."
+msgstr "Райан имеет более чем 10-летний опыт создания и эксплуатации пользовательских веб-приложений и высокомасштабируемых B2B-интерфейсов. Он является основателем Ramen и ChartURL."
+
+#: templates/team.html:242
+msgid "Daniel Von Fange"
+msgstr "Daniel Von Fange"
+
+#: templates/team.html:249
+msgid "Daniel is a full stack, polyglot developer. He's worked on projects from assembly programming to architecting systems tracking billions of dollars of NGO spend worldwide."
+msgstr "Даниэль - разработчик полного стека, программист-полиглот. Он работал над широким спектром проектов, от низкоуровневого программирования до архитектуры систем, отслеживающих миллиарды долларов НПО по всему миру."
+
+#: templates/team.html:259
+msgid "Addison Huegel"
+msgstr "Addison Huegel"
+
+#: templates/team.html:263
+msgid "Advisor/PR"
+msgstr "Советник / PR"
+
+#: templates/team.html:266
+msgid "Addison is a communications and marketing specialist with a degree in Physics from UC Berkeley. He previously worked with the Ethereum Foundation and DEVCON1."
+msgstr "Эддисон - специалист по коммуникациям и маркетингу со степенью в области физики из Калифорнийского университета в Беркли. Ранее он работал с Ethereum Foundation  и DEVCON1."
+
+#: templates/team.html:276
+msgid "Zing Yang"
+msgstr "Zing Yang"
+
+#: templates/team.html:280
+msgid "Advisor/Business Operations"
+msgstr "Советник / Бизнес-операции"
+
+#: templates/team.html:283
+msgid "Zing was Venture Partner and EIR at East Ventures. She has over a decade of investment and deal experience, having worked at Temasek Holdings and Capital Group."
+msgstr "Была венчурным партнером и EIR в East Ventures. Более чем десятилетний опыт инвестиций и сделок во время работы в Temasek Holdings и Capital Group."
+
+#: templates/team.html:293
+msgid "Melody He"
+msgstr "Melody He "
+
+#: templates/team.html:297
+msgid "Advisor/International BD"
+msgstr "Советник / Международный BD"
+
+#: templates/team.html:300
+msgid "Melody is founder of Spartan Group, a blockchain advisory and investment fund. She was an early investor in TenX and strategic advisor to Gifto and Appcoins."
+msgstr "Мелоди является основателем Spartan Group, консультативного и инвестиционного фонда в сфере блокчейн. Она была ранним инвестором в TenX и стратегическим консультантом компаний Gifto и Appcoins."
+
+#: templates/team.html:310
+msgid "Paul Veradittakit"
+msgstr "Paul Veradittakit"
+
+#: templates/team.html:314 templates/team.html:331
+msgid "Advisor"
+msgstr "Советник"
+
+#: templates/team.html:317
+msgid "Paul is a Partner at Pantera Capital. He is also an advisor to several highly successful cryptocurrency projects including Orchid Labs, Enigma and ICON."
+msgstr "Пол является партнером Pantera Capital. Он также является советником нескольких очень успешных криптовалютных проектов, включая Orchid Labs, Enigma и ICON."
+
+#: templates/team.html:327
+msgid "Joey Krug"
+msgstr "Joey Krug"
+
+#: templates/team.html:334
+msgid "Joey is the co-founder of Augur, the world’s first decentralized prediction market and oracle system. He is a Co-Chief Investment Officer at Pantera Capital."
+msgstr "Джои является соучредителем Augur, первого в мире децентрализованного рынка прогнозов и системы предсказаний. Он является со-руководителем по инвестициям в Pantera Capital."
+
+#: templates/team.html:378
+msgid "Sponsors"
+msgstr "Инвесторы"
+
+#: views/web_views.py:62 views/web_views.py:106
+msgid "Please enter your name"
+msgstr "Укажите имя"
+
+#: views/web_views.py:64 views/web_views.py:110
+msgid "Please enter your email"
+msgstr "Пожалуйста, укажите адрес эл. почты"
+
+#: views/web_views.py:66
+msgid "An error occured"
+msgstr "Произошла ошибка"
+
+#: views/web_views.py:68
+msgid "Please enter your desired allocation"
+msgstr "Введите желаемую сумму перевода"
+
+#: views/web_views.py:70
+msgid "Please agree to the important notice"
+msgstr "Пожалуйста, согласитесь с важным замечанием"
+
+#: views/web_views.py:108
+msgid "Please enter your company name"
+msgstr "Укажите название своей компании"
+
+#~ msgid "Whether you are a freelance photographer, apartment owner, bikeshare supplier, or existing sharing economy business, Sharing Economy makes it easy to do business on the decentralized web. Get in touch to learn more."
+#~ msgstr "Независимо от того, являетесь ли вы внештатным фотографом, владельцем квартиры, велопрокатом или уже существующим бизнесом совместного потребления, Sharing Economy упрощает работу в децентрализованной сети. Свяжитесь с нами, чтобы узнать больше."
+
+#~ msgid "An accredited investor must have a net worth of at least $1,000,000, excluding the value of one's primary residence, or have income at least $200,000 each year for the last two years (or $300,000 combined income if married."
+#~ msgstr "Аккредитованный инвестор должен иметь чистые активы в размере не менее 1 000 000 долларов США, за исключением стоимости недвижимости - основного места жительства или иметь доход не менее 200 000 долларов США каждый год в течение последних двух лет (или комбинированный доход в размере 300 000 долларов США, если он состоит в браке)."
+

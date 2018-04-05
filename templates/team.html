@@ -1,0 +1,324 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ gettext("Sharing Economy Protocol - Team") }}{% endblock %}
+
+{% block meta_description %}{{ gettext("Sharing Economy Protocol - Team") }}{% endblock %}
+
+{% block content %}
+
+<main class="team-page">
+  {% with navbar_dark=True %}{% include 'navbar.html' %}{% endwith %}
+  <section class="header-section team-header-section">
+    <div class="container foreground-content">
+      <div class="row">
+        <div class="col-12 col-md-6">
+          <h1>
+            {{ gettext("Our Team") }}
+          </h1>
+        </div>
+        <div class="col-12 col-md-6">
+          <p>
+            {{ gettext("Sharing Economy is a team of distributed entrepreneurs, engineers, and blockchain experts. Our mission is to enable the sharing economy on the decentralized web. We're hiring!") }}
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="core-team-section">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-12 col-pane background-panes top-panes">
+          <div class="row row-pane">
+            <div class="col-4 col-pane">
+              <div class="left-upper-pane">
+              </div>
+            </div>
+            <div class="col-8 col-pane">
+              <div class="right-upper-pane">
+              </div>
+            </div>
+          </div>
+          <div class="row row-pane">
+            <div class="col-12 col-pane">
+              <div class="core-team-bottom-pane">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="container foreground-content">
+          <div class="row">
+            <div class="col-12">
+              <h2>
+                {{ gettext("Management Team") }}
+              </h2>
+              <div class="row">
+                <div class="col-12 col-md-6 col-xl-3">
+                  <div class="team-member">
+                    <div class="headshot-wrapper">
+                      <img src="/static/img/team/TakashiShimizu.jpg" class="headshot">
+                    </div>
+                    <div class="name">
+                      <a href="http://www.linkedin.com/in/joshuafraser" target="_blank">{{ gettext("Takashi Shimizu") }}
+                      </a>
+                    </div>
+                    <div class="title">
+                      {{ gettext("Chairman") }}
+                    </div>
+                    <div class="bio">
+                      {{ gettext("Manager of software development, systems integration and outsourcing services as well as extensive global off-shore services delivery leading more than 5,000 engineers") }}
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-md-6 col-xl-3">
+                  <div class="team-member">
+                    <div class="headshot-wrapper">
+                      <img src="/static/img/team/TomohiroOnishi.jpg" class="headshot">
+                    </div>
+                    <div class="name">
+                      <a href="http://www.linkedin.com/in/matthewliu" target="_blank">{{ gettext("Tomohiro Onishi") }}
+                      </a>
+                    </div>
+                    <div class="title">
+                      {{ gettext("CEO") }}
+                    </div>
+                    <div class="bio">
+                      {{ gettext("Onishi is a manager with a proven track record of successfully managing about 100 development and BPR projects.") }}
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-md-6 col-xl-3">
+                  <div class="team-member">
+                    <div class="headshot-wrapper">
+                      <img src="/static/img/team/Vicente.jpg" class="headshot">
+                    </div>
+                    <div class="name">
+                      <a href="http://www.linkedin.com/in/wanderingstan" target="_blank">{{ gettext("Vicente Segarra Larrazabal") }}
+                      </a>
+                    </div>
+                    <div class="title">
+                      {{ gettext("COO") }}
+                    </div>
+                    <div class="bio">
+                      {{ gettext("Experienced manager with over 10 years’ experience in Software and Offshore Development Solutions") }}
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-md-6 col-xl-3">
+                  <div class="team-member">
+                    <div class="headshot-wrapper">
+                      <img src="/static/img/team/thanh.nn.jpg" class="headshot">
+                    </div>
+                    <div class="name">
+                      <a href="http://www.linkedin.com/in/andrewhyde" target="_blank">{{ gettext("Nguyen Nhat Thanh") }}
+                      </a>
+                    </div>
+                    <div class="title">
+                      {{ gettext("Head of Technology and Business Development") }}
+                    </div>
+                    <div class="bio">
+                      {{ gettext("Professional senior manager and principal software engineer with 15+ years global view in software development, including mobility cloud and enterprise system across ERP, CRM, CMS, e-Commerce, and POS.") }}
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-md-6 col-xl-3">
+                  <div class="team-member">
+                    <div class="headshot-wrapper">
+                      <img src="/static/img/team/nhien.tt.png" class="headshot">
+                    </div>
+                    <div class="name">
+                      <a href="https://www.linkedin.com/in/coleman-maher-sf/" target="_blank">{{ gettext("Tran Trieu Nhien") }}
+                      </a>
+                    </div>
+                    <div class="title">
+                      {{ gettext("Bridge System Engineer (BrSE) and Communicator") }}
+                    </div>
+                    <div class="bio">
+                      {{ gettext("Professional Bridge System Engineer with 10+ years of experience in the enterprise system.") }}
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-md-6 col-xl-3">
+                  <div class="team-member">
+                    <div class="headshot-wrapper">
+                      <img src="/static/img/team/headshot-jon.jpg" class="headshot">
+                    </div>
+                    <div class="name">
+                      <a href="https://www.linkedin.com/in/jonhearty/" target="_blank">{{ gettext("Le Thi Bich Khoa") }}
+                      </a>
+                    </div>
+                    <div class="title">
+                      {{ gettext("Senior Business Analyst") }}
+                    </div>
+                    <div class="bio">
+                      {{ gettext("Professional Business Analyst with 10+ years of experience in the enterprise system.") }}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="contributing-team-section">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="container foreground-content">
+          <div class="row">
+            <div class="col-12">
+              <h2>
+                {{ gettext("DevOps Team") }}
+              </h2>
+              <div class="row">
+                <div class="col-12 col-md-6 col-xl-3">
+                  <div class="team-member">
+                    <div class="headshot-wrapper">
+                      <img src="/static/img/team/anh.lh.jpg" class="headshot">
+                    </div>
+                    <div class="name">
+                      <a href="http://www.linkedin.com/in/aure-gimon-8501041" target="_blank">{{ gettext("Le Hoang Anh") }}
+                      </a>
+                    </div>
+                    <div class="title">
+                      {{ gettext("Senor Software Engineer") }}
+                    </div>
+                    <div class="bio">
+                      {{ gettext("Hoanh Anh is a fullstack Engineer. Have 5 years experience on software development.") }}
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-md-6 col-xl-3">
+                  <div class="team-member">
+                    <div class="headshot-wrapper">
+                      <img src="/static/img/team/hai.nt.jpg" class="headshot">
+                    </div>
+                    <div class="name">
+                      <a href="http://www.linkedin.com/in/derekhkan" target="_blank">{{ gettext("Nguyen Tien Hai") }}
+                      </a>
+                    </div>
+                    <div class="title">
+                      {{ gettext("Technical Architecture") }}
+                    </div>
+                    <div class="bio">
+                      {{ gettext("Hai has 5 years experience in software development. He has participated in a lot of large projects of TCTAV company") }}
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-md-6 col-xl-3">
+                  <div class="team-member">
+                    <div class="headshot-wrapper">
+                      <img src="/static/img/team/thanh.td.jpeg" class="headshot">
+                    </div>
+                    <div class="name">
+                      <a href="http://www.linkedin.com/in/saureenshah" target="_blank">{{ gettext("Tran Duc Thanh") }}
+                      </a>
+                    </div>
+                    <div class="title">
+                      {{ gettext("Senor Nodejs Engineer") }}
+                    </div>
+                    <div class="bio">
+                      {{ gettext("Have 4 years experience in Web development and have strong knowledge of Nodejs, Angular 5") }}
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-md-6 col-xl-3">
+                  <div class="team-member">
+                    <div class="headshot-wrapper">
+                      <img src="/static/img/team/truong.hv.jpeg" class="headshot">
+                    </div>
+                    <div class="name">
+                      <a href="https://www.linkedin.com/in/ryanangilly/" target="_blank">{{ gettext("Ha Van Truong") }}
+                      </a>
+                    </div>
+                    <div class="title">
+                      {{ gettext("Front-End Engineer") }}
+                    </div>
+                    <div class="bio">
+                      {{ gettext("He has 3+ years of Web development. He has strong knowledge of Angular 5, Bootstrap 4, SASS, LESS and related front-end techniques.") }}
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-md-6 col-xl-3">
+                  <div class="team-member">
+                    <div class="headshot-wrapper">
+                      <img src="/static/img/team/huyen.pt.jpg" class="headshot">
+                    </div>
+                    <div class="name">
+                      <a href="https://www.leancoder.com" target="_blank">{{ gettext("Phan Thanh Huyen") }}
+                      </a>
+                    </div>
+                    <div class="title">
+                      {{ gettext("QC Engineer") }}
+                    </div>
+                    <div class="bio">
+                      {{ gettext(Have 5+ years experience in Software testing and strong knowledge in Software development life circle. She also have a lot of experience on bug tracking tool such as: Jira, Redmine, etc) }}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-pane background-panes bottom-panes offset-panes">
+          <div class="row row-pane align-items-end">
+            <div class="col-9 col-pane">
+              <div class="left-lower-pane">
+              </div>
+            </div>
+            <div class="col-3 col-pane">
+              <div class="right-lower-pane">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="filler-section">
+  </section>
+  <section class="investors-section">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-12 col-pane background-panes">
+          <div class="row row-pane">
+            <div class="col-4 col-pane">
+              <div class="left-upper-pane">
+              </div>
+            </div>
+            <div class="col-8 col-pane">
+              <div class="right-upper-pane">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="container foreground-content">
+          <div class="row">
+            <div class="col-12 offset-xl-1 col-xl-10">
+              <h2>
+                {{ gettext("Sponsors") }}
+              </h2>
+              <div class="row">
+                <div class="col-12 col-md-6 col-lg-4">
+                  <div class="investor">
+                    <div class="logo-wrapper">
+                      <a href="https://www.panteracapital.com/" target="_blank">
+                        <img src="/static/img/team/trancosmos-logo.png" class="sponsors-logo">
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {% include 'footer.html' %}
+</main>
+
+{% endblock %}
+
+{% block extra_scripts %}
+{% endblock %}

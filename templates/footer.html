@@ -1,0 +1,112 @@
+<footer class="dark-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-md-6">
+        <div class="logo-container">
+          <img src="/static/img/logo.png"
+            srcset="/static/img/logo@2x.png 2x,
+              /static/img/logo@3x.png 3x"
+            class="logo">
+        </div>
+        <p class="company-mission">
+          {{ gettext("Blocklancer is building the sharing economy of tomorrow. Buyers and sellers will be able to transact without rent-seeking middlemen. We believe in lowering transaction fees, reducing censorship and regulation, and giving early participants a stake in the network.") }}
+        </p>
+      </div>
+      <div class="col-12 col-md-6">
+        <div class="row">
+          <div class="col-6 col-md-4">
+            <div class="footer-header">
+              {{ gettext("Documentation") }}
+            </div>
+            <ul class="footer-links">
+              <li class="footer-link">
+                <a href="{{ url_for('product_brief', lang_code=CURRENT_LANGUAGE) }}">
+                  {{ gettext("Product Brief") }}
+                </a>
+              </li>
+              <li class="footer-link">
+                <a href="{{ url_for('whitepaper', lang_code=CURRENT_LANGUAGE) }}">
+                  {{ gettext("Whitepaper") }}
+                </a>
+              </li>
+              <li class="footer-link">
+                <a href="http://localhost:3000" target="_blank">
+                  {{ gettext("Demo DApp") }}
+                </a>
+              </li>
+              <li class="footer-link">
+                <a href="https://github.com/blocklancer101/blocklancer-dapp" target="_blank">
+                  {{ gettext("Github") }}
+                </a>
+              </li>
+              <li class="footer-link">
+                <a href="http://#/" target="_blank">
+                  {{ gettext("Docs") }}
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-6 col-md-4">
+            <div class="footer-header">
+              {{ gettext("Community") }}
+            </div>
+            <ul class="footer-links">
+              <li class="footer-link">
+                <a href="{{ universal.CHATBOT_URL }}" target="_blank">
+                  {{ gettext("Telegram") }}
+                </a>
+              </li>
+              <li class="footer-link">
+                <a href="{{ universal.DISCORD_URL }}" target="_blank">
+                  {{ gettext("Discord") }}
+                </a>
+              </li>
+              <li class="footer-link">
+                <a href="https://medium.com/originprotocol" target="_blank">
+                  {{ gettext("Medium") }}
+                </a>
+              </li>
+              <li class="footer-link">
+                <a href="https://twitter.com/originprotocol" target="_blank">
+                  {{ gettext("Twitter") }}
+                </a>
+              </li>
+              <li class="footer-link">
+                <a href="https://www.facebook.com/originprotocol" target="_blank">
+                  {{ gettext("Facebook") }}
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-6 col-md-4">
+            <div class="footer-header">
+              {{ gettext("Organization") }}
+            </div>
+            <ul class="footer-links">
+              <li class="footer-link">
+                <a href="{{ url_for('team', lang_code=CURRENT_LANGUAGE) }}">
+                  {{ gettext("Team") }}
+                </a>
+              </li>
+              <li class="footer-link">
+                <a href="{{ url_for('contact', lang_code=CURRENT_LANGUAGE) }}">
+                  {{ gettext("Contact Us") }}
+                </a>
+              </li>
+              <li class="footer-link">
+                <a href="{{ url_for('partners', lang_code=CURRENT_LANGUAGE) }}">
+                  {{ gettext("Partners") }}
+                </a>
+              </li>
+              <li class="footer-link">
+                <a href="https://angel.co/originprotocol/jobs" target="_blank">
+                  {{ gettext("Jobs (We're hiring!)") }}
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

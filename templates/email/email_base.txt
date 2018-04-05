@@ -1,0 +1,7 @@
+{% block content %}
+{% endblock %}
+
+{{ universal.BUSINESS_NAME }}
+845 Market Street, Suite 450A, 
+San Francisco, CA, 94103
+Unsubscribe: {{ universal.BASE_URL }}/unsubscribe?email={{ to_email }}

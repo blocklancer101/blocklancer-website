@@ -1,0 +1,702 @@
+# Italian translations for Sharing Economy
+# company-website.
+# This file is distributed under the
+# same license as the Sharing Economy
+# company-website project.
+# Bret Funk <bret.e.funk@gmail.com>, 2018.
+#
+# Vesrsion 0.3 - 2018-01-20
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sharing Economy company-website VERSION\n"
+"Report-Msgid-Bugs-To: stan@originprotocol.com\n"
+"POT-Creation-Date: 2018-01-21 21:10-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Bret Funk <bret.e.funk@gmail.com>\n"
+"Language: it\n"
+"Language-Team: it <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: logic/emails/mailing_list.py:17 logic/emails/mailing_list.py:35
+#: logic/emails/mailing_list.py:96
+msgid "Please enter a valid email address"
+msgstr "Per favore inserisci un indirizzo email valido"
+
+#: logic/emails/mailing_list.py:26
+msgid "You are already signed up!"
+msgstr "Sei già registrato!"
+
+#: logic/emails/mailing_list.py:30
+msgid "Thanks for signing up!"
+msgstr "Grazie per esserti registrato!"
+
+#: logic/emails/mailing_list.py:52 logic/emails/mailing_list.py:112
+msgid "Ooops! Something went wrong."
+msgstr "Ooops! Qualcosa è andato male!"
+
+#: logic/emails/mailing_list.py:64 logic/emails/mailing_list.py:123
+msgid "Thanks! We'll be in touch soon."
+msgstr "Grazie! Ci metteremo in contatto con te al più presto"
+
+#: logic/emails/mailing_list.py:77
+msgid "Ooops, something went wrong"
+msgstr "Ooops! Qualcosa è andato male!"
+
+#: logic/emails/mailing_list.py:79
+msgid "You have been unsubscribed"
+msgstr "Sei stato cancellato"
+
+#: logic/emails/mailing_list.py:99
+msgid "Please enter a valid website address"
+msgstr "Per favore inserisci un indirizzo email valido"
+
+#: templates/build_on_origin.html:3
+#, fuzzy
+msgid "The sharing economy without intermediaries: Build on Sharing Economy"
+msgstr "Per favore inserisci un indirizzo email valido"
+
+#: templates/build_on_origin.html:5
+#, fuzzy
+msgid "Sharing Economy Protocol - Build on Sharing Economy"
+msgstr "Protocollo Sharing Economy - Squadra"
+
+#: templates/build_on_origin.html:16
+#, fuzzy
+msgid "Build on Sharing Economy"
+msgstr "Costruisci su Sharing Economy"
+
+#: templates/build_on_origin.html:21
+msgid "<strong>Teams all over the world are building on Sharing Economy's protocols. We're looking for more amazing people to join our mission.</strong> Whether you're an existing blockchain company or a traditional marketplace thinking about the blockchain, we'd love to hear from you! Fill out the form below and we'll get back to you shortly."
+msgstr "<strong>Squadre di tutto il mondo stanno costruendo sui protocolli di Sharing Economy. Siamo alla ricerca di persone straordinarie per unirsi alla nostra missione. </strong> Puoi essere un'azienda di blockchain esistente o un mercato tradizionale che pensa alla blockchain, ci piacerebbe sentirti! Compila il modulo sottostante e ti risponderemo a breve."
+
+#: templates/build_on_origin.html:66
+#, fuzzy
+msgid "Interested in building?"
+msgstr "Sei interessato a costruire?"
+
+#: templates/build_on_origin.html:72 templates/build_on_origin.html:73
+#, fuzzy
+msgid "Name"
+msgstr "Nome"
+
+#: templates/build_on_origin.html:77 templates/build_on_origin.html:78
+msgid "Company"
+msgstr "Azienda"
+
+#: templates/build_on_origin.html:82 templates/build_on_origin.html:83
+#: templates/contact.html:77 templates/contact.html:78
+msgid "Email"
+msgstr "Email"
+
+#: templates/build_on_origin.html:87 templates/build_on_origin.html:88
+msgid "Website"
+msgstr "Sito web"
+
+#: templates/build_on_origin.html:92 templates/contact.html:397
+msgid "<strong>Anything else we should know?</strong> (optional)"
+msgstr "<strong>C'è qualcos'altro che dovremmo sapere?</strong> (opzionale)"
+
+#: templates/build_on_origin.html:96 templates/contact.html:411
+msgid "Submit"
+msgstr "Invia"
+
+#: templates/flashes.html:7
+msgid "Make new friends!"
+msgstr "Fai nuovi amici!"
+
+#: templates/flashes.html:7
+msgid "Talk to Our Chatbot"
+msgstr "Unisciti al nostro canale ufficiale di Telegram"
+
+#: templates/flashes.html:10
+msgid "Stay in touch?"
+msgstr "Vuoi rimanere in contatto?"
+
+#: templates/flashes.html:10
+msgid "Join Our Mailing List"
+msgstr "Iscriviti alla nostra Mailing List"
+
+#: templates/flashes.html:14
+msgid "Want to contribute?"
+msgstr "Vuoi contribuire?"
+
+#: templates/flashes.html:14
+msgid "Join Our Slack"
+msgstr "Unisciti al nostro canale Slack"
+
+#: templates/footer.html:12
+msgid "Sharing Economy is building the sharing economy of tomorrow. Buyers and sellers will be able to transact without rent-seeking middlemen. We believe in lowering transaction fees, reducing censorship and regulation, and giving early participants in the community a stake in the network."
+msgstr "Sharing Economy sta costruendo l'economia collaborativa di domani. Acquirenti e venditori saranno in grado di effettuare transazioni senza intermediari che cercano affitto. Crediamo nella riduzione delle commissioni di transazione, nella riduzione della censura e della regolamentazione, e nel dare ai primi partecipanti alla comunità una partecipazione nella rete."
+
+#: templates/footer.html:15
+msgid "Sharing Economy, Inc."
+msgstr "Sharing Economy, Inc."
+
+#: templates/footer.html:22
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: templates/footer.html:27 templates/navbar_dark.html:20
+#: templates/navbar_light.html:20
+msgid "Product Brief"
+msgstr "Descrizione del prodotto"
+
+#: templates/footer.html:32
+msgid "Whitepaper"
+msgstr "Whitepaper"
+
+#: templates/footer.html:37
+msgid "Demo DApp"
+msgstr "Demo DApp"
+
+#: templates/footer.html:42
+msgid "Github"
+msgstr "Github"
+
+#: templates/footer.html:47
+msgid "Docs"
+msgstr "Documenti"
+
+#: templates/footer.html:54 templates/team.html:110
+msgid "Community"
+msgstr "Comunità"
+
+#: templates/footer.html:59
+msgid "Slack"
+msgstr "Slack"
+
+#: templates/footer.html:64
+msgid "Telegram"
+msgstr "Telegram"
+
+#: templates/footer.html:69
+msgid "Medium"
+msgstr "Media"
+
+#: templates/footer.html:74
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/footer.html:79
+msgid "Facebook"
+msgstr "Facebook"
+
+#: templates/footer.html:86
+msgid "Organization"
+msgstr "Organizzazione"
+
+#: templates/footer.html:91 templates/navbar_dark.html:23
+#: templates/navbar_light.html:23
+msgid "Team"
+msgstr "Squadra"
+
+#: templates/footer.html:96 templates/navbar_dark.html:17
+#: templates/navbar_light.html:17 templates/contact.html:16
+msgid "Presale"
+msgstr "Prevendita"
+
+#: templates/footer.html:101
+msgid "Jobs (We're hiring!)"
+msgstr "Lavori (Stiamo assumendo!)"
+
+#: templates/footer.html:106
+msgid "845 Market St, #450A<br>San Francisco, CA 94103"
+msgstr "845 Market St, #450A<br>San Francisco, CA 94103"
+
+#: templates/index.html:3
+msgid "The sharing economy without intermediaries. Sharing Economy is a protocol for creating sharing economy marketplaces using the Ethereum blockchain and IPFS."
+msgstr "L’economia collaborativa senza intermediari. Sharing Economy è un protocollo per la creazione di mercati di economia collaborativa utilizzando la blockchain di Ethereum e IPFS."
+
+#: templates/index.html:5
+msgid "Sharing Economy Protocol"
+msgstr "Protocollo Sharing Economy"
+
+#: templates/index.html:16
+msgid "The sharing economy without intermediaries"
+msgstr "L’economia collaborativa senza intermediari"
+
+#: templates/index.html:19
+msgid "Sharing Economy is a protocol for creating sharing economy marketplaces using the Ethereum blockchain and IPFS"
+msgstr "Sharing Economy è un protocollo per la creazione di mercati di economia collaborativa utilizzando la blockchain di Ethereum e IPFS"
+
+#: templates/index.html:66
+msgid "The Sharing Economy platform"
+msgstr "La piattaforma Sharing Economy"
+
+#: templates/index.html:69
+msgid "We empower developers and businesses to build decentralized marketplaces on the blockchain. Our protocol makes it easy to create and manage listings for the fractional usage of assets and services. Buyers and sellers can discover each other, browse listings, make bookings, leave ratings and reviews, and much more."
+msgstr "Diamo agli sviluppatori e alle aziende la possibilità di costruire mercati decentralizzati sulla blockchain. Il nostro protocollo semplifica la creazione e la gestione di elenchi per l'utilizzo frazionario di beni e servizi. Acquirenti e venditori possono scoprirsi, sfogliare elenchi, effettuare prenotazioni, lasciare valutazioni e recensioni e molto altro."
+
+#: templates/index.html:74
+msgid "Read the Product Brief"
+msgstr "Leggi la Descrizione del Prodotto"
+
+#: templates/index.html:96
+#, fuzzy
+msgid "Companies building on the Sharing Economy Protocol"
+msgstr "Aziende che costruiscono sul protocollo Sharing Economy"
+
+#: templates/index.html:140
+msgid "Build your business on Sharing Economy"
+msgstr "Costruisce la tua azienda in Sharing Economy"
+
+#: templates/index.html:143
+#, fuzzy
+msgid "Whether you are a freelance photographer, apartment owner, bikeshare supplier, or existing sharing economy business, Sharing Economy makes it easy to do business on the decentralized web."
+msgstr "Puoi essere un fotografo freelance, proprietario di un appartamento, un fornitore di biciclette in condivisione o un'attività di economia di condivisione esistente, Sharing Economy rende facile fare affari sul web decentralizzato."
+
+#: templates/index.html:143
+msgid "Get in touch to learn more."
+msgstr "Mettiti in contatto per saperne di più"
+
+#: templates/index.html:148
+msgid "Try the Demo"
+msgstr "Prova il Demo"
+
+#: templates/index.html:155
+msgid "View Github"
+msgstr "Vedi Github"
+
+#: templates/index.html:168
+msgid "It's time to replace rent-seeking middlemen"
+msgstr "È tempo di sostituire gli intermediari in cerca di rendita"
+
+#: templates/index.html:171
+#, python-format
+msgid "Harnessing the power of the Ethereum blockchain, listings are managed via a secure and transparent system that acts as a neutral third party. Buyers and sellers share the 20-30%% transaction fees that currently go to companies like Uber, Airbnb, Fiverr, and Getaround."
+msgstr "Sfruttando il potere della blockchain di Ethereum, le inserzioni sono gestite tramite un sistema sicuro e trasparente che agisce come una terza parte neutrale. Acquirenti e venditori condividono le commissioni di transazione del 20-30 %% che attualmente vanno a società come Uber, Airbnb, Fiverr e Getaround."
+
+#: templates/index.html:176
+msgid "Read the Whitepaper"
+msgstr "Leggi il Whitepaper"
+
+#: templates/index.html:230
+msgid "Smart contracts enable secure and reliable payments directly from one party to another"
+msgstr "I contratti intelligenti consentono pagamenti sicuri e affidabili direttamente da una parte all'altra"
+
+#: templates/index.html:241
+msgid "Protocol schemas support hundreds of listing types, including custom verticals"
+msgstr "Gli schemi di protocollo supportano centinaia di tipi di elenchi, inclusi i verticali personalizzati"
+
+#: templates/index.html:252
+msgid "Open and shared data encourages innovation by developers and businesses"
+msgstr "I dati aperti e condivisi incoraggiano l'innovazione da parte di sviluppatori e aziende"
+
+#: templates/index.html:263
+msgid "Identity verification and reputation data on the blockchain ensures safe, reputable partners"
+msgstr "La verifica dell'identità e della reputazione sulla blockchain assicurano partner sicuri e affidabili"
+
+#: templates/index.html:280
+msgid "Tech Stack"
+msgstr "Tecnologia"
+
+#: templates/index.html:349
+msgid "Roadmap"
+msgstr "Tabella di marcia"
+
+#: templates/index.html:355
+msgid "May 2017"
+msgstr "Maggio 2017"
+
+#: templates/index.html:357
+msgid "Idea conception and demo DApp development"
+msgstr "Ideazione e sviluppo della demo DApp"
+
+#: templates/index.html:362
+msgid "September 2017"
+msgstr "Settembre 2017"
+
+#: templates/index.html:364
+msgid "Product Brief</a> and <a href='/whitepaper'>Whitepaper</a> released"
+msgstr "Descrizione del prodotto</a> e <a href='/whitepaper'>Whitepaper</a> rilasciato"
+
+#: templates/index.html:369
+msgid "December 2017"
+msgstr "Dicembre 2017"
+
+#: templates/index.html:371
+msgid "Launch <a href='https://demo.originprotocol.com' target='_blank'>alpha</a> on Ethereum testnet"
+msgstr "Avvia <a href='https://demo.originprotocol.com' target='_blank'>alpha</a> su Ethereum testnet"
+
+#: templates/index.html:376
+msgid "March 2018"
+msgstr "Marzo 2018"
+
+#: templates/index.html:378
+msgid "Public beta and community sale"
+msgstr "Beta pubblica e vendita comunitaria"
+
+#: templates/index.html:383
+msgid "Q2-2018"
+msgstr "Q2-2018"
+
+#: templates/index.html:385
+msgid "Token distribution and launch of 3rd-party DApps"
+msgstr "Distribuzione di token e lancio di DApps di terze parti"
+
+#: templates/index.html:390
+msgid "Q3-2018"
+msgstr "Q3-2018"
+
+#: templates/index.html:392
+msgid "Fully decentralized services and governance"
+msgstr "Servizi e governance completamente decentralizzati"
+
+#: templates/index.html:418
+msgid "Join us in building the sharing economy of tomorrow"
+msgstr "Unisciti a noi per costruire l'economia collaborativa di domani"
+
+#: templates/index.html:421
+msgid "Sign up for our mailing list and be first to learn of any Sharing Economy news!"
+msgstr "Iscriviti alla nostra mailing list e sarai il primo a conoscere le novità di Sharing Economy!"
+
+#: templates/index.html:425
+#, fuzzy
+msgid "Enter email"
+msgstr "Email"
+
+#: templates/index.html:428
+msgid "Join the Community"
+msgstr "Unisciti alla nostra comunità"
+
+#: templates/index.html:442
+msgid "Press"
+msgstr "Stampa"
+
+#: templates/index.html:455
+msgid "If Airbnb were being started today, it would’ve been a peer-to-peer cooperative model based on a blockchain - Joey Krug, Augur"
+msgstr "Se Airbnb fosse avviato oggi, sarebbe stato un modello cooperativo peer-to-peer basato su una blockchain - Joey Krug, Augur"
+
+#: templates/index.html:472
+msgid "The Sharing Economy Protocol is a set of open-source blockchain protocols for buyers and sellers of services like car-sharing or home-sharing to transact on a decentralized, open web platform."
+msgstr "Il Protocollo Sharing Economy è un set di open source protocolli di blockchain per acquirenti e venditori di servizi come car-sharing o home-sharing da effettuare su una piattaforma web decentralizzata e aperta."
+
+
+#: templates/index.html:489
+msgid "Sharing Economy wants to change that, hoping to decentralize the sharing economy with Ethereum by creating a peer-to-peer network for transacting directly for just about anything."
+msgstr "Sharing Economy vuole cambiarlo, sperando di decentralizzare l'economia collaborativa con Ethereum creando una rete peer-to-peer per effettuare transazioni direttamente per qualsiasi cosa."
+
+#: templates/index.html:506
+msgid "What if open-source software can replace dozens of multi-million or even multi-billion dollar companies?"
+msgstr "Cosa succederebbe se un software open source potesse rimpiazzare dozzine di aziende multimilionarie o multimiliardarie?"
+
+#: templates/navbar_dark.html:26 templates/navbar_light.html:26
+msgid "Blog"
+msgstr "Blog"
+
+#: templates/navbar_dark.html:29 templates/navbar_light.html:29
+msgid "Demo"
+msgstr "Demo"
+
+#: templates/contact.html:3
+#, fuzzy
+msgid "The sharing economy without intermediaries: Sharing Economy Protocol Presale"
+msgstr "L’economia collaborative senza intermediari: Prevendita del Protocollo Sharing Economy"
+
+#: templates/contact.html:5
+#, fuzzy
+msgid "Sharing Economy Protocol - Presale"
+msgstr "Protocollo Sharing Economy - Prevendita"
+
+#: templates/contact.html:21
+msgid "<strong>The exact date and details of the Sharing Economy contact have not yet been announced.</strong> Please fill out this form if you are interested in participating in the Sharing Economy contact and want to be updated as more details are announced."
+msgstr "<strong>La data e i dettagli esatti della prevendita di Sharing Economy non sono ancora stati annunciati. </strong> Si prega di compilare questo modulo se sei interessato a partecipare alla prevendita di Sharing Economy e vuoi essere aggiornato sui dettagli."
+
+#: templates/contact.html:66
+msgid "Interested in contributing?"
+msgstr "Interessato a contribuire?"
+
+#: templates/contact.html:72 templates/contact.html:73
+msgid "Full Name"
+msgstr "Nome e Cognome"
+
+#: templates/contact.html:82
+msgid "Are you an accredited investor?"
+msgstr "Sei un investitore accreditato?"
+
+#: templates/contact.html:83
+msgid "Huh?"
+msgstr "Scusa?"
+
+#: templates/contact.html:84
+msgid "An accredited investor must have a net worth of at least $1,000,000, excluding the value of one's primary residence, or have income at least $200,000 each year for the last two years (or $300,000 combined income if married.)"
+msgstr "Un investitore accreditato deve avere un patrimonio netto di almeno $ 1.000.000, escluso il valore della propria residenza primaria, o avere reddito almeno $ 200.000 ogni anno per gli ultimi due anni (o $ 300.000 di reddito combinato se sposati)."
+
+#: templates/contact.html:88
+msgid "Yes"
+msgstr "Sì"
+
+#: templates/contact.html:93
+msgid "No"
+msgstr "No"
+
+#: templates/contact.html:99
+msgid "What type of entity do you represent?"
+msgstr "Che tipo di entità rappresenti?"
+
+#: templates/contact.html:103
+msgid "Individual"
+msgstr "Individuale"
+
+#: templates/contact.html:108
+msgid "Syndicate"
+msgstr "Sindacato"
+
+#: templates/contact.html:113
+msgid "Professional Fund"
+msgstr "Fondo Professionale"
+
+#: templates/contact.html:120
+#, fuzzy
+msgid "<strong>Desired allocation</strong>"
+msgstr "<strong>Assegnazione desiderata</strong>"
+
+#: templates/contact.html:137
+msgid "Citizenship"
+msgstr "Cittadinanza"
+
+#: templates/contact.html:392
+msgid "<strong>ETH or BTC address you plan to send from?</strong> (optional)"
+msgstr "<strong>Indirizzo ETH o BTC dal quale intendi inviare?</strong> (optional)"
+
+#: templates/contact.html:402
+msgid "Important notice"
+msgstr "Avviso importante"
+
+#: templates/contact.html:405
+msgid "I understand the contact will be subject to United States regulations and securities laws and that submitting this form is NOT a guarantee of allocation."
+msgstr "Comprendo che la prevendita sarà soggetta alle normative statunitensi e alle leggi sui titoli e che la presentazione di questo modulo NON è una garanzia di assegnazione."
+
+#: templates/team.html:3
+msgid "The sharing economy without intermediaries: Sharing Economy Protocol Team"
+msgstr "L’economia collaborative senza intermediari: La Squadra del Protocollo Sharing Economy"
+
+#: templates/team.html:5
+msgid "Sharing Economy Protocol - Team"
+msgstr "Protocollo Sharing Economy - Squadra"
+
+#: templates/team.html:16
+msgid "Our Team"
+msgstr "La nostra squadra"
+
+#: templates/team.html:21
+msgid "Sharing Economy is a team of distributed entrepreneurs, engineers, and blockchain experts. Our mission is to enable the sharing economy on the decentralized web. We're hiring!"
+msgstr "Sharing Economy è un team di imprenditori distribuiti, ingegneri e esperti blockchain. La nostra missione è consentire l'economia collaborativa sul web decentralizzato. Stiamo assumendo!"
+
+#: templates/team.html:46
+msgid "Core Team"
+msgstr "Il Team Principale"
+
+#: templates/team.html:55
+msgid "Josh Fraser"
+msgstr "Josh Fraser"
+
+#: templates/team.html:59 templates/team.html:76
+msgid "Cofounder"
+msgstr "Cofondatore"
+
+#: templates/team.html:62
+msgid "Josh started coding at the age of 10. Prior to Sharing Economy, he co-founded three other venture-backed companies: EventVue, Torbit (acquired by Walmart Labs) &amp; Forage."
+msgstr "Josh ha iniziato a programmare all'età di 10 anni. Prima di Sharing Economy, ha co-fondato altre tre società venture-venture: EventVue, Torbit (acquisita da Walmart Labs) &amp; Forage."
+
+#: templates/team.html:72
+msgid "Matthew Liu"
+msgstr "Matthew Liu"
+
+#: templates/team.html:79
+msgid "Matt was the 3rd PM at YouTube (acquired by Google) and VP PM at Qwiki (acquired by Yahoo) and Bonobos (acquired by Walmart). He has an MS and BS from Stanford."
+msgstr "Matt era il 3zo Project Manager in YouTube (acquisita da Google) e Vice President Project Manager in Qwiki (acquisita da Yahoo) e Bonobos (acquisita da Walmart). Ha una MS e una BS di Stanford."
+
+#: templates/team.html:89
+msgid "Stan James"
+msgstr "Stan James"
+
+#: templates/team.html:93
+#, fuzzy
+msgid "Senior Engineer"
+msgstr "Senior Engineer"
+
+#: templates/team.html:96
+msgid "Stan is a software architect with deep experience in game design and machine learning. Previously, he founded Lijit Networks (acquired by Federated Media)."
+msgstr "Stan è un architetto di software con una profonda esperienza nel disegno di giochi e nell'apprendimento automatico. In precedenza, ha fondato Lijit Networks (acquisita da Federated Media)."
+
+#: templates/team.html:106
+msgid "Andrew Hyde"
+msgstr "Andrew Hyde"
+
+#: templates/team.html:113
+msgid "Andrew was the founder of four startups, including Startup Weekend, and has built global communities across dozens of countries. He was employee number 1 at TechStars."
+msgstr "Andrew è il fondatore di quattro startup, incluso Startup Weekend, e ha creato comunità globali in dozzine di paesi. Era impiegato numero 1 di TechStars."
+
+#: templates/team.html:127
+msgid "Partnerships"
+msgstr "Associazioni"
+
+#: templates/team.html:130
+msgid "Coleman is an active cryptocurrency investor and real estate entrepreneur, owning and managing multiple Airbnb properties. He studied mathematics at Berkeley."
+msgstr "Coleman è un investitore attivo di criptovalute e imprenditore immobiliare, proprietario e gestore di diverse proprietà di Airbnb. Ha studiato matematica a Berkeley."
+
+#: templates/team.html:140
+msgid "Jon Hearty"
+msgstr "Jon Hearty"
+
+#: templates/team.html:144
+msgid "Business Development"
+msgstr "Sviluppo del Business"
+
+#: templates/team.html:147
+msgid "Jon was the 10th hire at Redbeacon (acquired by The Home Depot) and 1st hire at Datanyze where he served in multiple business development roles from VP of growth to COO."
+msgstr "Jon è stato il decimo ingaggio a Redbeacon (acquisito da The Home Depot) e il primo a Datanyze, dove ha ricoperto diversi ruoli nello sviluppo del business da VP di crescita a COO."
+
+#: templates/team.html:165
+msgid "Contributing Team and Advisors"
+msgstr "Collaboratori e Consulenti"
+
+#: templates/team.html:174
+msgid "Aure Gimon"
+msgstr "Aure Gimon"
+
+#: templates/team.html:178
+msgid "Product Designer"
+msgstr "Designer di Prodotti"
+
+#: templates/team.html:181
+msgid "Aure has deep experience in crafting products that delight users. He has designed experiences with top brands (Nike, Sony, Virgin) and Silicon Valley startups."
+msgstr "Aure ha una profonda esperienza nella creazione di prodotti che deliziano gli utenti. Ha progettato esperienze con le migliori marche (Nike, Sony, Virgin) e Silicon Valley."
+
+#: templates/team.html:191
+msgid "Derek Kan"
+msgstr "Derek Kan"
+
+#: templates/team.html:195
+msgid "Evangelist"
+msgstr "Evangelista"
+
+#: templates/team.html:198
+msgid "Derek is a product executive that has built global marketing and ad technology business lines. He's held leadership positions at GroupM and Omnicom Media Group."
+msgstr "Derek è un product executive che ha costruito linee di business globali di marketing e tecnologia pubblicitaria. Ha ricoperto posizioni dirigenziali presso GroupM e Omnicom Media Group."
+
+#: templates/team.html:208
+msgid "Saureen Shah"
+msgstr "Saureen Shah"
+
+#: templates/team.html:212
+msgid "Engineer/BD"
+msgstr "Ingegnere/BD"
+
+#: templates/team.html:215
+msgid "Saureen is a serial entrepreneur and investor. He was cofounder and CTO of sharing economy marketplace InstaWork and 10th software engineer at YouTube."
+msgstr "Saureen è un imprenditore seriale e investitore. È stato cofondatore e CTO del mercato di economia collaborativa InstaWork e il decimo ingegnere del software su YouTube."
+
+#: templates/team.html:225
+msgid "Ryan Angilly"
+msgstr "Ryan Angilly"
+
+#: templates/team.html:229 templates/team.html:246
+msgid "Engineer"
+msgstr "Ingegnere"
+
+#: templates/team.html:232
+msgid "Ryan has 10+ years experience building and operating consumer-facing web applications and highly scalable B2B APIs. He is founder of Ramen and ChartURL."
+msgstr "Ryan ha oltre 10 anni di esperienza nella creazione e gestione di applicazioni Web rivolte al consumatore e API B2B altamente scalabili. È il fondatore di Ramen e ChartURL."
+
+#: templates/team.html:242
+msgid "Daniel Von Fange"
+msgstr "Daniel Von Fange"
+
+#: templates/team.html:249
+msgid "Daniel is a full stack, polyglot developer. He's worked on projects from assembly programming to architecting systems tracking billions of dollars of NGO spend worldwide."
+msgstr "Daniel è uno sviluppatore stack completo, poliglotta. Ha lavorato su progetti dalla programmazione di assemblaggi a sistemi di architetti, seguendo miliardi di dollari di spesa per ONG in tutto il mondo."
+
+#: templates/team.html:259
+msgid "Addison Huegel"
+msgstr "Addison Huegel"
+
+#: templates/team.html:263
+msgid "Advisor/PR"
+msgstr "Consulente/PR"
+
+#: templates/team.html:266
+msgid "Addison is a communications and marketing specialist with a degree in Physics from UC Berkeley. He previously worked with the Ethereum Foundation and DEVCON1."
+msgstr "Addison è uno specialista di comunicazione e marketing con una laurea in fisica presso l'UC Berkeley. In precedenza ha lavorato con Ethereum Foundation e DEVCON1."
+
+#: templates/team.html:276
+msgid "Zing Yang"
+msgstr "Consulente/Business Operations"
+
+#: templates/team.html:280
+msgid "Advisor/Business Operations"
+msgstr "Advisor/Business Operations"
+
+#: templates/team.html:283
+msgid "Zing was Venture Partner and EIR at East Ventures. She has over a decade of investment and deal experience, having worked at Temasek Holdings and Capital Group."
+msgstr "Zing era Venture Partner e EIR di East Ventures. Ha oltre un decennio di esperienza negli investimenti e nelle negoziazioni, avendo lavorato presso Temasek Holdings e Capital Group."
+
+#: templates/team.html:293
+msgid "Melody He"
+msgstr "Melody He"
+
+#: templates/team.html:297
+msgid "Advisor/International BD"
+msgstr "Consulente/International BD"
+
+#: templates/team.html:300
+msgid "Melody is founder of Spartan Group, a blockchain advisory and investment fund. She was an early investor in TenX and strategic advisor to Gifto and Appcoins."
+msgstr "Melody è fondatore di Spartan Group, una società di consulenza e fondo di investimento blockchain. Era un investitore precoce in TenX e consulente strategico di Gifto e Appcoins."
+
+#: templates/team.html:310
+msgid "Paul Veradittakit"
+msgstr "Paul Veradittakit"
+
+#: templates/team.html:314 templates/team.html:331
+msgid "Advisor"
+msgstr "Consulente"
+
+#: templates/team.html:317
+msgid "Paul is a Partner at Pantera Capital. He is also an advisor to several highly successful cryptocurrency projects including Orchid Labs, Enigma and ICON."
+msgstr "Paul è partner di Pantera Capital. È anche consulente di numerosi progetti di criptovaluta di grande successo tra cui Orchid Labs, Enigma e ICON."
+
+#: templates/team.html:327
+msgid "Joey Krug"
+msgstr "Joey Krug"
+
+#: templates/team.html:334
+msgid "Joey is the co-founder of Augur, the world’s first decentralized prediction market and oracle system. He is a Co-Chief Investment Officer at Pantera Capital."
+msgstr "Joey è il co-fondatore di Augur, il primo mercato di previsione e oracolo decentralizzato al mondo. È Co-Chief Investment Officer di Pantera Capital."
+
+#: templates/team.html:378
+msgid "Sponsors"
+msgstr "Investitori"
+
+#: views/web_views.py:62 views/web_views.py:106
+msgid "Please enter your name"
+msgstr "Per favore inserisci il tuo nome"
+
+#: views/web_views.py:64 views/web_views.py:110
+msgid "Please enter your email"
+msgstr "Per favore inserisci la tua email"
+
+#: views/web_views.py:66
+msgid "An error occured"
+msgstr "Si è verificato un errore"
+
+#: views/web_views.py:68
+msgid "Please enter your desired allocation"
+msgstr "Per favore inserisci l'assegnazione desiderata"
+
+#: views/web_views.py:70
+msgid "Please agree to the important notice"
+msgstr "Si prega di accettare l'avviso importante"
+
+#: views/web_views.py:108
+msgid "Please enter your company name"
+msgstr "Per favore inserisci il nome della tua azienda"
+
+#~ msgid "We'll be announcing our partners soon!"
+#~ msgstr "Annunceremo presto i nostri partner!"
+

@@ -1,0 +1,699 @@
+# Croatian translations for PROJECT.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the
+# same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: stan@originprotocol.com\n"
+"POT-Creation-Date: 2018-01-21 21:10-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: hr\n"
+"Language-Team: hr <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: logic/emails/mailing_list.py:17 logic/emails/mailing_list.py:35
+#: logic/emails/mailing_list.py:96
+msgid "Please enter a valid email address"
+msgstr "Molimo unesite valjanu adresu e-pošte."
+
+#: logic/emails/mailing_list.py:26
+msgid "You are already signed up!"
+msgstr "Već ste prijavljeni!"
+
+#: logic/emails/mailing_list.py:30
+msgid "Thanks for signing up!"
+msgstr "Hvala na prijavi!"
+
+#: logic/emails/mailing_list.py:52 logic/emails/mailing_list.py:112
+msgid "Ooops! Something went wrong."
+msgstr "Ups! Nešto je pošlo po zlu."
+
+#: logic/emails/mailing_list.py:64 logic/emails/mailing_list.py:123
+msgid "Thanks! We'll be in touch soon."
+msgstr "Hvala! Uskoro ćemo Vam se javiti."
+
+#: logic/emails/mailing_list.py:77
+msgid "Ooops, something went wrong"
+msgstr "Ups, nešto je pošlo po zlu"
+
+#: logic/emails/mailing_list.py:79
+msgid "You have been unsubscribed"
+msgstr "Odjavili ste pretplatu"
+
+#: logic/emails/mailing_list.py:99
+msgid "Please enter a valid website address"
+msgstr "Unesite važeću web adresu"
+
+#: templates/build_on_origin.html:3
+#, fuzzy
+msgid "The sharing economy without intermediaries: Build on Sharing Economy"
+msgstr "Ekonomija dijeljenja bez posrednika: Gradite na Sharing Economy-u"
+
+#: templates/build_on_origin.html:5
+#, fuzzy
+msgid "Sharing Economy Protocol - Build on Sharing Economy"
+msgstr "Sharing Economy protokol - gradite na Sharing Economy-u"
+
+#: templates/build_on_origin.html:16
+#, fuzzy
+msgid "Build on Sharing Economy"
+msgstr "Izgradite svoje poslovanje na Sharing Economy-u"
+
+#: templates/build_on_origin.html:21
+msgid "<strong>Teams all over the world are building on Sharing Economy's protocols. We're looking for more amazing people to join our mission.</strong> Whether you're an existing blockchain company or a traditional marketplace thinking about the blockchain, we'd love to hear from you! Fill out the form below and we'll get back to you shortly."
+msgstr "<strong> Timovi diljem svijeta grade na Sharing Economy protokolu. Tražimo još ambicioznih osoba da se pridruže našoj misiji. </strong> Bilo da ste postojeća Blockchain tvrtka ili tradicionalno poslovanje koje razmišlja o prelasku na Blockchain, voljeli bi da nam se javite! Ispunite obrazac u nastavku i uskoro ćemo vam se javiti."
+
+#: templates/build_on_origin.html:66
+#, fuzzy
+msgid "Interested in building?"
+msgstr "Zainteresirani za doprinos?"
+
+#: templates/build_on_origin.html:72 templates/build_on_origin.html:73
+#, fuzzy
+msgid "Name"
+msgstr "Puno ime"
+
+#: templates/build_on_origin.html:77 templates/build_on_origin.html:78
+msgid "Company"
+msgstr "Tvrtka"
+
+#: templates/build_on_origin.html:82 templates/build_on_origin.html:83
+#: templates/contact.html:77 templates/contact.html:78
+msgid "Email"
+msgstr "E-mail"
+
+#: templates/build_on_origin.html:87 templates/build_on_origin.html:88
+msgid "Website"
+msgstr "Web Stranica"
+
+#: templates/build_on_origin.html:92 templates/contact.html:397
+msgid "<strong>Anything else we should know?</strong> (optional)"
+msgstr "<strong> Bilo što drugo što trebamo znati? </strong> (nije obavezno)"
+
+#: templates/build_on_origin.html:96 templates/contact.html:411
+msgid "Submit"
+msgstr "Pošalji"
+
+#: templates/flashes.html:7
+msgid "Make new friends!"
+msgstr "Upoznajte nove prijatelje!"
+
+#: templates/flashes.html:7
+msgid "Talk to Our Chatbot"
+msgstr "Pridružite se našem Telegramu"
+
+#: templates/flashes.html:10
+msgid "Stay in touch?"
+msgstr "Ostanimo u kontaktu?"
+
+#: templates/flashes.html:10
+msgid "Join Our Mailing List"
+msgstr "Pridruži se našoj E-mail listi"
+
+#: templates/flashes.html:14
+msgid "Want to contribute?"
+msgstr "Želite li doprinijeti?"
+
+#: templates/flashes.html:14
+msgid "Join Our Slack"
+msgstr "Pridružite se našem Slack kanalu"
+
+#: templates/footer.html:12
+msgid "Sharing Economy is building the sharing economy of tomorrow. Buyers and sellers will be able to transact without rent-seeking middlemen. We believe in lowering transaction fees, reducing censorship and regulation, and giving early participants in the community a stake in the network."
+msgstr "Sharing Economy gradi sustav \"sharing\" ekonomije budućnosti. Kupci i prodavatelji moći će obavljati poslove bez posrednika. Čvrsto vjerujemo u snižavanje naknada transakcija, smanjenje cenzure i regulacije, te nagrađivanju ranih sudionika udjelom u sustavu."
+
+#: templates/footer.html:15
+msgid "Sharing Economy, Inc."
+msgstr "Sharing Economy, Inc"
+
+#: templates/footer.html:22
+msgid "Documentation"
+msgstr "Dokumenti"
+
+#: templates/footer.html:27 templates/navbar_dark.html:20
+#: templates/navbar_light.html:20
+msgid "Product Brief"
+msgstr "Sažetak "
+
+#: templates/footer.html:32
+msgid "Whitepaper"
+msgstr "Whitepaper"
+
+#: templates/footer.html:37
+msgid "Demo DApp"
+msgstr "Demo DApp"
+
+#: templates/footer.html:42
+msgid "Github"
+msgstr "Github"
+
+#: templates/footer.html:47
+msgid "Docs"
+msgstr "Docs"
+
+#: templates/footer.html:54 templates/team.html:110
+msgid "Community"
+msgstr "Community"
+
+#: templates/footer.html:59
+msgid "Slack"
+msgstr "Slack"
+
+#: templates/footer.html:64
+msgid "Telegram"
+msgstr "Telegram"
+
+#: templates/footer.html:69
+msgid "Medium"
+msgstr "Medium"
+
+#: templates/footer.html:74
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/footer.html:79
+msgid "Facebook"
+msgstr "Facebook"
+
+#: templates/footer.html:86
+msgid "Organization"
+msgstr "Organizacija"
+
+#: templates/footer.html:91 templates/navbar_dark.html:23
+#: templates/navbar_light.html:23
+msgid "Team"
+msgstr "Tim"
+
+#: templates/footer.html:96 templates/navbar_dark.html:17
+#: templates/navbar_light.html:17 templates/contact.html:16
+msgid "Presale"
+msgstr "Pretprodaja"
+
+#: templates/footer.html:101
+msgid "Jobs (We're hiring!)"
+msgstr "Karijera (Trenutno zapošljavamo!)"
+
+#: templates/footer.html:106
+msgid "845 Market St, #450A<br>San Francisco, CA 94103"
+msgstr "845 Market St, # 450A u San Francisco, CA 94103"
+
+#: templates/index.html:3
+msgid "The sharing economy without intermediaries. Sharing Economy is a protocol for creating sharing economy marketplaces using the Ethereum blockchain and IPFS."
+msgstr "Ekonomija dijeljenja bez posrednika. Sharing Economy je protokol za stvaranje tržišta ekonomske razmjene koristeći Ethereum blockchain i IPFS."
+
+#: templates/index.html:5
+msgid "Sharing Economy Protocol"
+msgstr "Sharing Economy protokol"
+
+#: templates/index.html:16
+msgid "The sharing economy without intermediaries"
+msgstr "Ekonomija dijeljenja bez posrednika"
+
+#: templates/index.html:19
+msgid "Sharing Economy is a protocol for creating sharing economy marketplaces using the Ethereum blockchain and IPFS"
+msgstr "Sharing Economy je protokol za stvaranje tržišta djeljivih ekonomija koristeći Ethereum blockchain i IPFS"
+
+#: templates/index.html:66
+msgid "The Sharing Economy platform"
+msgstr "Platforma Sharing Economy"
+
+#: templates/index.html:69
+msgid "We empower developers and businesses to build decentralized marketplaces on the blockchain. Our protocol makes it easy to create and manage listings for the fractional usage of assets and services. Buyers and sellers can discover each other, browse listings, make bookings, leave ratings and reviews, and much more."
+msgstr "Osnažujemo razvojne programere i tvrtke u izgradnji decentraliziranih tržišta na Blockchainu. Naš protokol olakšava stvaranje i upravljanje oglasa za djelomičnu upotrebu sredstava i usluga. Kupci i prodavači se lako nalaze, pregledavaju oglase, rade rezervacije, ocjenjuju i još mnogo toga."
+
+#: templates/index.html:74
+msgid "Read the Product Brief"
+msgstr "Pročitajte sažetak"
+
+#: templates/index.html:96
+#, fuzzy
+msgid "Companies building on the Sharing Economy Protocol"
+msgstr "Partneri koji se baziraju na Sharing Economyu"
+
+#: templates/index.html:140
+msgid "Build your business on Sharing Economy"
+msgstr "Izgradite svoje poslovanje na Sharing Economy-u"
+
+#: templates/index.html:143
+#, fuzzy
+msgid "Whether you are a freelance photographer, apartment owner, bikeshare supplier, or existing sharing economy business, Sharing Economy makes it easy to do business on the decentralized web."
+msgstr "Bez obzira jeste li freelance fotograf, vlasnik apartmana ili već imate poslovanje temeljeno na Ekonomiji djeljenja, Sharing Economy olakšava poslovanje na decentraliziranom webu. Obratite nam se kako bi saznali više."
+
+#: templates/index.html:143
+msgid "Get in touch to learn more."
+msgstr "Obratite se da biste saznali više."
+
+#: templates/index.html:148
+msgid "Try the Demo"
+msgstr "Pokreni Demo"
+
+#: templates/index.html:155
+msgid "View Github"
+msgstr "Vidi Github"
+
+#: templates/index.html:168
+msgid "It's time to replace rent-seeking middlemen"
+msgstr "Vrijeme je da zamijenimo posrednike i naknadu"
+
+#: templates/index.html:171
+#, python-format
+msgid "Harnessing the power of the Ethereum blockchain, listings are managed via a secure and transparent system that acts as a neutral third party. Buyers and sellers share the 20-30%% transaction fees that currently go to companies like Uber, Airbnb, Fiverr, and Getaround."
+msgstr "Uporabom mogućnosti Ethereum blockchaina, oglasima se upravlja putem sigurnog i transparentnog sustava koji djeluje kao neutralna treća strana. Kupci i prodavači dijele 20-30 %% transakcijskih troškova koji trenutno idu na račun tvrtki poput Uber, Airbnb, Fiverr i Getaround."
+
+#: templates/index.html:176
+msgid "Read the Whitepaper"
+msgstr "Pročitajte Whitepaper"
+
+#: templates/index.html:230
+msgid "Smart contracts enable secure and reliable payments directly from one party to another"
+msgstr "Pametni ugovori omogućuju sigurna i pouzdana plaćanja izravno svim sudionicima"
+
+#: templates/index.html:241
+msgid "Protocol schemas support hundreds of listing types, including custom verticals"
+msgstr "Sheme protokola podržavaju stotine vrsta oglasa, uključujući i stvaranje vlastitih branši"
+
+#: templates/index.html:252
+msgid "Open and shared data encourages innovation by developers and businesses"
+msgstr "Otvoreni i dijeljeni podaci potiču inovativnost razvojnih programera i tvrtki"
+
+#: templates/index.html:263
+msgid "Identity verification and reputation data on the blockchain ensures safe, reputable partners"
+msgstr "Verifikacija identiteta i reputacija na blockchainu osigurava sigurne, provjerene partnere"
+
+#: templates/index.html:280
+msgid "Tech Stack"
+msgstr "Tech Stack"
+
+#: templates/index.html:349
+msgid "Roadmap"
+msgstr "Roadmap"
+
+#: templates/index.html:355
+msgid "May 2017"
+msgstr "Svibanj 2017"
+
+#: templates/index.html:357
+msgid "Idea conception and demo DApp development"
+msgstr "Koncept ideje i početak razvoja demo DApp-a"
+
+#: templates/index.html:362
+msgid "September 2017"
+msgstr "Rujan 2017"
+
+#: templates/index.html:364
+msgid "Product Brief</a> and <a href='/whitepaper'>Whitepaper</a> released"
+msgstr "Objava sažetka</a> &amp; <a href='/whitepaper'>Whitepaper</a>"
+
+#: templates/index.html:369
+msgid "December 2017"
+msgstr "Prosinac 2017"
+
+#: templates/index.html:371
+msgid "Launch <a href='https://demo.originprotocol.com' target='_blank'>alpha</a> on Ethereum testnet"
+msgstr "Objava <a href='https://demo.originprotocol.com' target='_blank'> alphe </a> na Ethereum testnetu"
+
+#: templates/index.html:376
+msgid "March 2018"
+msgstr "Ožujak 2018"
+
+#: templates/index.html:378
+msgid "Public beta and community sale"
+msgstr "Javna beta i prodaja tokena"
+
+#: templates/index.html:383
+msgid "Q2-2018"
+msgstr "Q2-2018"
+
+#: templates/index.html:385
+msgid "Token distribution and launch of 3rd-party DApps"
+msgstr "Distribucija tokena i pokretanje DApps-a trećih strana"
+
+#: templates/index.html:390
+msgid "Q3-2018"
+msgstr "Q3-2018"
+
+#: templates/index.html:392
+msgid "Fully decentralized services and governance"
+msgstr "Potpuno decentralizirane usluge i upravljanje istih"
+
+#: templates/index.html:418
+msgid "Join us in building the sharing economy of tomorrow"
+msgstr "Pridružite nam se u izgradnji tržišta Ekonomije dijeljenja budućnosti"
+
+#: templates/index.html:421
+msgid "Sign up for our mailing list and be first to learn of any Sharing Economy news!"
+msgstr "Prijavite se na našu mailing listu i budite prvi koji dobiva sve novosti o Sharing Economyu!"
+
+#: templates/index.html:425
+#, fuzzy
+msgid "Enter email"
+msgstr "E-mail"
+
+#: templates/index.html:428
+msgid "Join the Community"
+msgstr "Pridružite se Community-u"
+
+#: templates/index.html:442
+msgid "Press"
+msgstr "Mediji"
+
+#: templates/index.html:455
+msgid "If Airbnb were being started today, it would’ve been a peer-to-peer cooperative model based on a blockchain - Joey Krug, Augur"
+msgstr "Ukoliko bi se Airbnb osnovao danas, bio bi  temeljen na peer-to-peer modelu na blockchainu - Joey Krug, Augur"
+
+#: templates/index.html:472
+msgid "The Sharing Economy Protocol is a set of open-source blockchain protocols for buyers and sellers of services like car-sharing or home-sharing to transact on a decentralized, open web platform."
+msgstr "Sharing Economy Protocol je skup open-source blockchain protokola za kupce i prodavače usluga kao što su dijeljenje automobila ili podataka za obavljanje transakcija na decentraliziranoj, otvorenoj web platformi."
+
+#: templates/index.html:489
+msgid "Sharing Economy wants to change that, hoping to decentralize the sharing economy with Ethereum by creating a peer-to-peer network for transacting directly for just about anything."
+msgstr "Sharing Economy to želi mijenjati, nadajući se da će decentralizirati ekonomiju dijeljenja na Ethereum-u stvaranjem peer-to-peer mreže za izravne transakcije gotovo svih proizvoda/usluga."
+
+#: templates/index.html:506
+msgid "What if open-source software can replace dozens of multi-million or even multi-billion dollar companies?"
+msgstr "Što ako open-source softver može zamijeniti desetke tvrtki vrijednih milijarde?"
+
+#: templates/navbar_dark.html:26 templates/navbar_light.html:26
+msgid "Blog"
+msgstr "Blog"
+
+#: templates/navbar_dark.html:29 templates/navbar_light.html:29
+msgid "Demo"
+msgstr "Demo"
+
+#: templates/contact.html:3
+#, fuzzy
+msgid "The sharing economy without intermediaries: Sharing Economy Protocol Presale"
+msgstr "Ekonomija dijeljenja bez posrednika: Sharing Economy Protocol Pretprodaja"
+
+#: templates/contact.html:5
+#, fuzzy
+msgid "Sharing Economy Protocol - Presale"
+msgstr "Sharing Economy protokol - Pretprodaja"
+
+#: templates/contact.html:21
+msgid "<strong>The exact date and details of the Sharing Economy contact have not yet been announced.</strong> Please fill out this form if you are interested in participating in the Sharing Economy contact and want to be updated as more details are announced."
+msgstr "<strong> Točan datum i pojedinosti o Sharing Economy pretprodaji još nisu objavljeni. </strong> Molimo ispunite ovaj obrazac ako ste zainteresirani za sudjelovanje u Sharing Economy pretprodaji i ako želite biti obaviješteni u trenutku objavljivanja više pojedinosti."
+
+#: templates/contact.html:66
+msgid "Interested in contributing?"
+msgstr "Zainteresirani za doprinos?"
+
+#: templates/contact.html:72 templates/contact.html:73
+msgid "Full Name"
+msgstr "Puno ime"
+
+#: templates/contact.html:82
+msgid "Are you an accredited investor?"
+msgstr "Jeste li akreditirani investitor?"
+
+#: templates/contact.html:83
+msgid "Huh?"
+msgstr "Huh?"
+
+#: templates/contact.html:84
+msgid "An accredited investor must have a net worth of at least $1,000,000, excluding the value of one's primary residence, or have income at least $200,000 each year for the last two years (or $300,000 combined income if married.)"
+msgstr "Akreditirani investitor mora imati akumuliranu vrijednost od najmanje 1.000.000 USD, isključujući vrijednost primarne rezidencije ili imaju najmanje 200.000 dolara godišnjeg prihoda posljednje dvije godine (ili 300.000 dolara u kombinaciji ako je oženjen)."
+
+#: templates/contact.html:88
+msgid "Yes"
+msgstr "Da"
+
+#: templates/contact.html:93
+msgid "No"
+msgstr "Ne"
+
+#: templates/contact.html:99
+msgid "What type of entity do you represent?"
+msgstr "Koju vrstu entiteta predstavljate?"
+
+#: templates/contact.html:103
+msgid "Individual"
+msgstr "Pojedinac"
+
+#: templates/contact.html:108
+msgid "Syndicate"
+msgstr "Sindikat"
+
+#: templates/contact.html:113
+msgid "Professional Fund"
+msgstr "Profesionalni fond"
+
+#: templates/contact.html:120
+#, fuzzy
+msgid "<strong>Desired allocation</strong>"
+msgstr "<strong> Željena alokacija </strong> (25.000 $ min)"
+
+#: templates/contact.html:137
+msgid "Citizenship"
+msgstr "Državljanstvo"
+
+#: templates/contact.html:392
+msgid "<strong>ETH or BTC address you plan to send from?</strong> (optional)"
+msgstr "<strong> ETH ili BTC adresa s koje namjeravate poslati? </strong> (nije obavezno)"
+
+#: templates/contact.html:402
+msgid "Important notice"
+msgstr "Važna obavijest"
+
+#: templates/contact.html:405
+msgid " I understand the contact will be subject to United States regulations and securities laws and that submitting this form is NOT a guarantee of allocation."
+msgstr " Razumijem da će pretprodaja biti podložna propisima SAD-a i zakonima o vrijednosnim papirima, te da podnošenje ovog obrasca NIJE jamstvo alokacije."
+
+#: templates/team.html:3
+msgid "The sharing economy without intermediaries: Sharing Economy Protocol Team"
+msgstr "Ekonomija dijeljenja bez posrednika: Sharing Economy Protocol Team"
+
+#: templates/team.html:5
+msgid "Sharing Economy Protocol - Team"
+msgstr "Sharing Economy protokol - Tim"
+
+#: templates/team.html:16
+msgid "Our Team"
+msgstr "Naš Tim"
+
+#: templates/team.html:21
+msgid "Sharing Economy is a team of distributed entrepreneurs, engineers, and blockchain experts. Our mission is to enable the sharing economy on the decentralized web. We're hiring!"
+msgstr "Sharing Economy je tim sastavljen od poduzetnika, inženjera i Blockchain stručnjaka. Naša je misija omogućiti Ekonomiju dijeljenja na decentraliziranom webu. Zapošljavamo!"
+
+#: templates/team.html:46
+msgid "Core Team"
+msgstr "Core Team"
+
+#: templates/team.html:55
+msgid "Josh Fraser"
+msgstr "Josh Fraser"
+
+#: templates/team.html:59 templates/team.html:76
+msgid "Cofounder"
+msgstr "Suosnivač"
+
+#: templates/team.html:62
+msgid "Josh started coding at the age of 10. Prior to Sharing Economy, he co-founded three other venture-backed companies: EventVue, Torbit (acquired by Walmart Labs) &amp; Forage."
+msgstr "Josh je započeo s kodiranjem u dobi od 10 godina. Prije Sharing Economy-a, osnovao je još tri tvrtke: EventVue, Torbit (Walmart Labs) & amp; Forage."
+
+#: templates/team.html:72
+msgid "Matthew Liu"
+msgstr "Matthew Liu"
+
+#: templates/team.html:79
+msgid "Matt was the 3rd PM at YouTube (acquired by Google) and VP PM at Qwiki (acquired by Yahoo) and Bonobos (acquired by Walmart). He has an MS and BS from Stanford."
+msgstr "Matt je bio treći projektni menadžer YouTube-a  i VP PM na Qwiki (kupljen od Yahooa) i Bonobosa (kupljen od Walmarta). Ima MS i BS sa Stanforda."
+
+#: templates/team.html:89
+msgid "Stan James"
+msgstr "Stan James"
+
+#: templates/team.html:93
+#, fuzzy
+msgid "Senior Engineer"
+msgstr "Senior Engineer"
+
+#: templates/team.html:96
+msgid "Stan is a software architect with deep experience in game design and machine learning. Previously, he founded Lijit Networks (acquired by Federated Media)."
+msgstr "Stan je softverski arhitekt s dugogodišnjem iskustvom u dizajnu igara i strojnom učenju. Prije toga osnovao je Lijit Networks (kupljen od Federated Media)."
+
+#: templates/team.html:106
+msgid "Andrew Hyde"
+msgstr "Andrew Hyde"
+
+#: templates/team.html:113
+msgid "Andrew was the founder of four startups, including Startup Weekend, and has built global communities across dozens of countries. He was employee number 1 at TechStars."
+msgstr "Andrew je osnivač četiri startupa, uključujući i Startup Weekend -a, gdje je izgradio globalne zajednice diljem svijeta. Bio je zaposlenik broj 1 u TechStarsu."
+
+#: templates/team.html:127
+msgid "Partnerships"
+msgstr "Partnerstva"
+
+#: templates/team.html:130
+msgid "Coleman is an active cryptocurrency investor and real estate entrepreneur, owning and managing multiple Airbnb properties. He studied mathematics at Berkeley."
+msgstr "Coleman je aktivni kripto-investitor i poduzetnik na tržištu nekretnina, posjeduje i upravlja višestrukim Airbnb nekretninama. Studirao je matematiku na Berkeley-u."
+
+#: templates/team.html:140
+msgid "Jon Hearty"
+msgstr "Jon Hearty"
+
+#: templates/team.html:144
+msgid "Business Development"
+msgstr "Poslovni razvoj"
+
+#: templates/team.html:147
+msgid "Jon was the 10th hire at Redbeacon (acquired by The Home Depot) and 1st hire at Datanyze where he served in multiple business development roles from VP of growth to COO."
+msgstr "Jon je bio 10. zaposlenik u Redbeaconu (kupljen od The Home Depot) i prvi zaposlenik u Datanyzeu, gdje je radio na višestrukim pozicijama razvoja poslovanja od VP rasta do COO-a."
+
+#: templates/team.html:165
+msgid "Contributing Team and Advisors"
+msgstr "Podrška i Savjetnici"
+
+#: templates/team.html:174
+msgid "Aure Gimon"
+msgstr "Aure Gimon"
+
+#: templates/team.html:178
+msgid "Product Designer"
+msgstr "Dizajner proizvoda"
+
+#: templates/team.html:181
+msgid "Aure has deep experience in crafting products that delight users. He has designed experiences with top brands (Nike, Sony, Virgin) and Silicon Valley startups."
+msgstr "Aure ima veliko iskustvo u stvaranju proizvoda koji oduševljavaju korisnike. Surađivao je s vrhunskim brandovima (Nike, Sony, Virgin) i Silicon Valley startups."
+
+#: templates/team.html:191
+msgid "Derek Kan"
+msgstr "Derek Kan"
+
+#: templates/team.html:195
+msgid "Evangelist"
+msgstr "Evangelist"
+
+#: templates/team.html:198
+msgid "Derek is a product executive that has built global marketing and ad technology business lines. He's held leadership positions at GroupM and Omnicom Media Group."
+msgstr "Derek je menadžer koji je izgradio poslove globalnih razmjera u marketingu, te posebno u oglasnoj tehnologiji. Bio je na rukovodećim pozicijama u GroupM i Omnicom Media Group."
+
+#: templates/team.html:208
+msgid "Saureen Shah"
+msgstr "Saureen Shah"
+
+#: templates/team.html:212
+msgid "Engineer/BD"
+msgstr "Inženjer/BD"
+
+#: templates/team.html:215
+msgid "Saureen is a serial entrepreneur and investor. He was cofounder and CTO of sharing economy marketplace InstaWork and 10th software engineer at YouTube."
+msgstr "Saureen je serijski poduzetnik i investitor. Bio je suosnivač i CTO na \"sharing\" tržištu InstaWork i 10. softverski inženjer na YouTubeu."
+
+#: templates/team.html:225
+msgid "Ryan Angilly"
+msgstr "Ryan Angilly"
+
+#: templates/team.html:229 templates/team.html:246
+msgid "Engineer"
+msgstr "Inžinjer"
+
+#: templates/team.html:232
+msgid "Ryan has 10+ years experience building and operating consumer-facing web applications and highly scalable B2B APIs. He is founder of Ramen and ChartURL."
+msgstr "Ryan ima 10 ili više godina iskustva u izgradnji i radu web aplikacija s potrošačima vrlo skalabilnih B2B API-a. Utemeljitelj je Ramena i ChartURL-a."
+
+#: templates/team.html:242
+msgid "Daniel Von Fange"
+msgstr "Daniel Von Fange"
+
+#: templates/team.html:249
+msgid "Daniel is a full stack, polyglot developer. He's worked on projects from assembly programming to architecting systems tracking billions of dollars of NGO spend worldwide."
+msgstr "Daniel je full stack, poliglotni developer. Radio je na projektima strojnih jezika do konstruiranja sustava koji prate milijarde dolara nevladinih udruga diljem svijeta."
+
+#: templates/team.html:259
+msgid "Addison Huegel"
+msgstr "Addison Huegel"
+
+#: templates/team.html:263
+msgid "Advisor/PR"
+msgstr "Savjetnik/PR"
+
+#: templates/team.html:266
+msgid "Addison is a communications and marketing specialist with a degree in Physics from UC Berkeley. He previously worked with the Ethereum Foundation and DEVCON1."
+msgstr "Addison je stručnjak za komunikaciju i marketing s diplomom iz fizike s UC Berkeley. Ranije je radio sa Zakladom Ethereum i DEVCON1."
+
+#: templates/team.html:276
+msgid "Zing Yang"
+msgstr "Zing Yang"
+
+#: templates/team.html:280
+msgid "Advisor/Business Operations"
+msgstr "Savjetnica/poslovanje"
+
+#: templates/team.html:283
+msgid "Zing was Venture Partner and EIR at East Ventures. She has over a decade of investment and deal experience, having worked at Temasek Holdings and Capital Group."
+msgstr "Zing je bio Venture Partner i EIR u East Venturesu. Ima više od deset godina iskustva u investiranju i poslovanju, nakon što je radila u Temasek Holdings i Capital Group."
+
+#: templates/team.html:293
+msgid "Melody He"
+msgstr "Melody He"
+
+#: templates/team.html:297
+msgid "Advisor/International BD"
+msgstr "Savjetnica/Međunarodni BD"
+
+#: templates/team.html:300
+msgid "Melody is founder of Spartan Group, a blockchain advisory and investment fund. She was an early investor in TenX and strategic advisor to Gifto and Appcoins."
+msgstr "Melody je utemeljiteljica Spartan Group, blockchain savjetodavnog i investicijskog fonda. Bila je rani investitor u TenX-u i strateški savjetnik za Gifto i Appcoins."
+
+#: templates/team.html:310
+msgid "Paul Veradittakit"
+msgstr "Paul Veradittakit"
+
+#: templates/team.html:314 templates/team.html:331
+msgid "Advisor"
+msgstr "Savjetnik"
+
+#: templates/team.html:317
+msgid "Paul is a Partner at Pantera Capital. He is also an advisor to several highly successful cryptocurrency projects including Orchid Labs, Enigma and ICON."
+msgstr "Paul je partner u Pantera Capitalu. Također je savjetnik nekoliko vrlo uspješnih projekata u kripto-svijetu, uključujući Orchid Labs, Enigma i ICON."
+
+#: templates/team.html:327
+msgid "Joey Krug"
+msgstr "Joey Krug"
+
+#: templates/team.html:334
+msgid "Joey is the co-founder of Augur, the world’s first decentralized prediction market and oracle system. He is a Co-Chief Investment Officer at Pantera Capital."
+msgstr "Joey je suosnivač Augur-a, prvog decentraliziranog oracle sistema na svijetu. On je jedan od glavnih investicijskih direktora u Pantera Capital-u."
+
+#: templates/team.html:378
+msgid "Sponsors"
+msgstr "Investitori"
+
+#: views/web_views.py:62 views/web_views.py:106
+msgid "Please enter your name"
+msgstr "Molimo unesite svoje ime"
+
+#: views/web_views.py:64 views/web_views.py:110
+msgid "Please enter your email"
+msgstr "Unesite svoju e-mail adresu."
+
+#: views/web_views.py:66
+msgid "An error occured"
+msgstr "Došlo je do pogreške"
+
+#: views/web_views.py:68
+msgid "Please enter your desired allocation"
+msgstr "Unesite željenu dodjelu"
+
+#: views/web_views.py:70
+msgid "Please agree to the important notice"
+msgstr "Prihvatite važnu obavijest"
+
+#: views/web_views.py:108
+msgid "Please enter your company name"
+msgstr "Molimo unesite naziv tvrtke"
+
+#~ msgid "We'll be announcing our partners soon!"
+#~ msgstr "Ubrzo ćemo najaviti partnere!"
+
